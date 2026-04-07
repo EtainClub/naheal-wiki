@@ -33,6 +33,7 @@ COMPILE_PROMPT = """\
 
 요구사항:
 - 독자: 암 환자 및 자연 치유에 관심 있는 일반인
+- 첫 줄: 이 위키 페이지의 핵심 키워드 8~12개를 쉼표로 나열 (예: 맨발걷기, 어싱, 접지, 자유전자, 활성산소, 자율신경계, 암치유)
 - 구조: ## 개요, ## 주요 개념, ## 실천 방법, ## 주의사항, ## 출처 아티클 순서
 - 출처 아티클 섹션에는 각 아티클의 제목, 시리즈명, 저자, 게시일을 목록으로 표시
 - 의학적 주장은 "~라고 알려져 있습니다", "~라는 체험 사례가 있습니다" 형식으로 신중하게 작성
@@ -193,12 +194,11 @@ def compile_category(slug: str, articles: list[dict], model: dict) -> str:
     wiki_file.write_text(header + wiki_text, encoding="utf-8")
     print(f"  ✓ wiki/{slug}.md 저장 ({len(wiki_text)}자)")
 
-    # 요약 (첫 문장 추출)
-    first_line = wiki_text.strip().split("\n")
-    for line in first_line:
-        line = line.strip().lstrip("#").strip()
-        if line and not line.startswith("---"):
-            return line[:60]
+    # 요약: 헤딩 제외하고 첫 비어있지 않은 줄 (키워드 줄)
+    for line in wiki_text.strip().split("\n"):
+        line = line.strip()
+        if line and not line.startswith("#") and not line.startswith("---"):
+            return line[:80]
     return display
 
 
@@ -219,10 +219,12 @@ def _extract_first_sentence(wiki_file: Path) -> str:
                     continue
             if in_frontmatter:
                 continue
-            # frontmatter 이후 첫 비어있지 않은 내용 줄
-            text = stripped.lstrip("#").strip()
+            # frontmatter 이후 첫 비어있지 않은 내용 줄 (헤딩 제외)
+            if stripped.startswith("#"):
+                continue
+            text = stripped.strip()
             if text and not text.startswith("|") and not text.startswith(">"):
-                return text[:60]
+                return text[:80]
     except Exception:
         pass
     return ""
