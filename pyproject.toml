@@ -1,5 +1,5 @@
 [project]
-name = "naheal-cancer-wiki"
+name = "naheal-wiki"
 version = "0.1.0"
 description = "자연 치유 LLM Wiki 빌드 스크립트"
 requires-python = ">=3.11"

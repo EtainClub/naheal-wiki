@@ -36,3 +36,28 @@ def get_category(slug: str) -> str:
 
 def get_display(slug: str) -> str:
     return CATEGORY_DISPLAY.get(slug, slug)
+
+
+def korean_slugify(text: str, max_len: int = 80) -> str:
+    """한국어 제목을 파일/폴더명 slug로 변환.
+
+    규칙:
+    - 한글, 영문, 숫자, 하이픈 유지
+    - 공백 → 하이픈
+    - 특수문자 제거 (/ \\ : * ? " < > | ( ) , . ! ? ' ` ~ @ # $ % ^ & + = [ ] { })
+    - 연속 하이픈 → 단일 하이픈
+    - 최대 max_len 자
+    """
+    import re
+
+    # 특수문자 제거 (한글·영문·숫자·공백·하이픈 이외)
+    text = re.sub(r'[^\w\s가-힣ㄱ-ㅎㅏ-ㅣ\-]', '', text, flags=re.UNICODE)
+    # 언더스코어도 하이픈으로
+    text = text.replace('_', '-')
+    # 공백 → 하이픈
+    text = re.sub(r'\s+', '-', text.strip())
+    # 연속 하이픈 정리
+    text = re.sub(r'-+', '-', text)
+    # 앞뒤 하이픈 제거
+    text = text.strip('-')
+    return text[:max_len]
