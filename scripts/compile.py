@@ -20,24 +20,24 @@ from pathlib import Path
 import frontmatter
 
 sys.path.insert(0, str(Path(__file__).parent))
-from categories import CATEGORY_SLUGS, get_display, get_slug
+from categories import CATEGORY_SLUGS, get_display, get_slug, korean_slugify
 
 RAW_DIR = Path(__file__).parent.parent / "raw"
 WIKI_DIR = Path(__file__).parent.parent / "wiki"
 
 COMPILE_PROMPT = """\
 당신은 자연 치유 전문 편집자입니다.
-아래는 naheal.org 필진이 작성한 '{display_name}' 관련 아티클들입니다.
+아래는 naheal.org 필진이 작성한 '{series_title}' 시리즈의 아티클들입니다.
 
-이 자료들을 바탕으로 '{display_name}' 주제의 종합 위키 페이지를 한국어로 작성하세요.
+이 자료들을 바탕으로 '{series_title}' 시리즈의 종합 위키 페이지를 한국어로 작성하세요.
 
 요구사항:
 - 독자: 암 환자 및 자연 치유에 관심 있는 일반인
-- 첫 줄: 이 위키 페이지의 핵심 키워드 8~12개를 쉼표로 나열 (예: 맨발걷기, 어싱, 접지, 자유전자, 활성산소, 자율신경계, 암치유)
+- 첫 줄: 이 시리즈의 핵심 키워드 8~12개를 쉼표로 나열 (예: 맨발걷기, 어싱, 접지, 자유전자, 활성산소, 자율신경계, 암치유)
 - 구조: ## 개요, ## 주요 개념, ## 실천 방법, ## 주의사항, ## 출처 아티클 순서
-- 출처 아티클 섹션에는 각 아티클의 제목, 시리즈명, 저자, 게시일을 목록으로 표시
+- 출처 아티클 섹션에는 각 아티클의 제목, 저자, 게시일을 목록으로 표시
 - 의학적 주장은 "~라고 알려져 있습니다", "~라는 체험 사례가 있습니다" 형식으로 신중하게 작성
-- 분량: 1000~2000자
+- 분량: 800~1500자
 
 ---
 
@@ -59,13 +59,16 @@ naheal.org 필진이 작성한 자연 치유 지식을 LLM이 주제별로 정�
 """
 
 
-def load_raw_files() -> dict[str, list[dict]]:
-    """raw/ 서브폴더를 탐색해 category slug 기준으로 그룹화해 반환.
+SeriesGroup = dict  # {slug, title, articles: list[dict]}
 
-    각 서브폴더는 시리즈이며 _meta.md + 아티클 파일들로 구성됨.
-    구버전 호환: raw/*.md flat 파일도 처리.
+
+def load_raw_files() -> dict[str, SeriesGroup]:
+    """raw/ 서브폴더를 탐색해 시리즈 slug 기준으로 그룹화해 반환.
+
+    반환값: {series_slug: {slug, title, articles: [...]}}
+    구버전 호환: raw/*.md flat 파일은 seriesTitle 기준으로 그룹화.
     """
-    groups: dict[str, list[dict]] = {}
+    groups: dict[str, SeriesGroup] = {}
     if not RAW_DIR.exists():
         return groups
 
@@ -76,32 +79,26 @@ def load_raw_files() -> dict[str, list[dict]]:
 
         # 시리즈 메타 읽기 (_meta.md)
         meta_file = series_dir / "_meta.md"
-        series_title = series_dir.name  # 폴더명을 fallback으로
-        series_category_slug = "general"
+        series_title = series_dir.name
+        series_slug = korean_slugify(series_dir.name) or series_dir.name
 
         if meta_file.exists():
             try:
                 meta = frontmatter.load(meta_file)
                 series_title = meta.metadata.get("title", series_dir.name)
-                series_category_slug = meta.metadata.get("categorySlug") or get_slug(
-                    meta.metadata.get("category", "일반")
-                )
+                series_slug = meta.metadata.get("seriesSlug") or korean_slugify(series_title) or series_dir.name
             except Exception as e:
                 print(f"[경고] {meta_file} 읽기 실패: {e}")
 
-        # 아티클 파일들 (_meta.md 제외)
+        articles = []
         for md_file in sorted(series_dir.glob("*.md")):
             if md_file.name == "_meta.md":
                 continue
             try:
                 post = frontmatter.load(md_file)
-                # 아티클의 category는 메타에서 상속
-                cat_slug = post.metadata.get("categorySlug") or series_category_slug
-                groups.setdefault(cat_slug, []).append(
+                articles.append(
                     {
-                        "slug": cat_slug,
                         "title": post.metadata.get("title", md_file.stem),
-                        "seriesTitle": series_title,
                         "authorName": post.metadata.get("authorName", ""),
                         "publishedAt": post.metadata.get("publishedAt", ""),
                         "content": post.content,
@@ -111,18 +108,23 @@ def load_raw_files() -> dict[str, list[dict]]:
             except Exception as e:
                 print(f"[경고] {series_dir.name}/{md_file.name} 읽기 실패: {e}")
 
+        if articles:
+            groups[series_slug] = {
+                "slug": series_slug,
+                "title": series_title,
+                "articles": articles,
+            }
+
     # 구버전 호환: raw/*.md flat 파일 처리
+    flat_articles: dict[str, list] = {}
     for md_file in sorted(RAW_DIR.glob("*.md")):
         try:
             post = frontmatter.load(md_file)
-            slug = post.metadata.get("categorySlug") or get_slug(
-                post.metadata.get("category", "일반")
-            )
-            groups.setdefault(slug, []).append(
+            series_title = post.metadata.get("seriesTitle", "일반")
+            s_slug = korean_slugify(series_title) or "general"
+            flat_articles.setdefault(s_slug, []).append(
                 {
-                    "slug": slug,
                     "title": post.metadata.get("title", "제목 없음"),
-                    "seriesTitle": post.metadata.get("seriesTitle", ""),
                     "authorName": post.metadata.get("authorName", ""),
                     "publishedAt": post.metadata.get("publishedAt", ""),
                     "content": post.content,
@@ -131,6 +133,10 @@ def load_raw_files() -> dict[str, list[dict]]:
             )
         except Exception as e:
             print(f"[경고] {md_file.name} 읽기 실패: {e}")
+
+    for s_slug, arts in flat_articles.items():
+        if s_slug not in groups:
+            groups[s_slug] = {"slug": s_slug, "title": s_slug, "articles": arts}
 
     return groups
 
@@ -160,46 +166,40 @@ def _call_llm(prompt: str, model: dict, retries: int = 3) -> str:
     raise RuntimeError("LLM 호출 실패: 재시도 횟수 초과")
 
 
-MAX_ARTICLES_PER_CATEGORY = 15
+MAX_ARTICLES_PER_SERIES = 20
 CHARS_PER_ARTICLE = 2000
 
 
-def compile_category(slug: str, articles: list[dict], model: dict) -> str:
-    """slug에 해당하는 wiki 페이지 생성 후 파일에 저장, 요약 반환"""
-    display = get_display(slug)
-
-    # 최신 아티클 우선, 최대 MAX_ARTICLES_PER_CATEGORY개
-    selected = sorted(
-        articles,
-        key=lambda a: a.get("publishedAt", "") or "",
-        reverse=True,
-    )[:MAX_ARTICLES_PER_CATEGORY]
+def compile_series(series_slug: str, series_title: str, articles: list[dict], model: dict) -> str:
+    """시리즈 wiki 페이지 생성 후 파일에 저장, 요약(키워드 줄) 반환"""
+    # order 순서대로, 최대 MAX_ARTICLES_PER_SERIES개
+    selected = articles[:MAX_ARTICLES_PER_SERIES]
 
     articles_text = ""
     for i, a in enumerate(selected, 1):
         articles_text += f"### 아티클 {i}: {a['title']}\n"
-        articles_text += f"시리즈: {a['seriesTitle']} | 저자: {a['authorName']} | 게시일: {a['publishedAt']}\n\n"
+        articles_text += f"저자: {a['authorName']} | 게시일: {a['publishedAt']}\n\n"
         articles_text += a["content"][:CHARS_PER_ARTICLE]
         articles_text += "\n\n---\n\n"
 
-    prompt = COMPILE_PROMPT.format(display_name=display, articles_text=articles_text)
+    prompt = COMPILE_PROMPT.format(series_title=series_title, articles_text=articles_text)
 
-    print(f"  LLM 호출 ({model['provider']}): {slug} ({len(articles)}개 아티클)...")
+    print(f"  LLM 호출 ({model['provider']}): {series_slug} ({len(articles)}개 아티클)...")
     wiki_text = _call_llm(prompt, model)
 
     # 파일 헤더 추가
-    header = f"---\nslug: {slug}\ncategory: {display}\nupdated: {_today()}\narticle_count: {len(articles)}\n---\n\n"
+    header = f"---\nslug: {series_slug}\ntitle: {series_title}\nupdated: {_today()}\narticle_count: {len(articles)}\n---\n\n"
     WIKI_DIR.mkdir(exist_ok=True)
-    wiki_file = WIKI_DIR / f"{slug}.md"
+    wiki_file = WIKI_DIR / f"{series_slug}.md"
     wiki_file.write_text(header + wiki_text, encoding="utf-8")
-    print(f"  ✓ wiki/{slug}.md 저장 ({len(wiki_text)}자)")
+    print(f"  ✓ wiki/{series_slug}.md 저장 ({len(wiki_text)}자)")
 
     # 요약: 헤딩 제외하고 첫 비어있지 않은 줄 (키워드 줄)
     for line in wiki_text.strip().split("\n"):
         line = line.strip()
         if line and not line.startswith("#") and not line.startswith("---"):
             return line[:80]
-    return display
+    return series_title
 
 
 def _extract_first_sentence(wiki_file: Path) -> str:
@@ -230,6 +230,18 @@ def _extract_first_sentence(wiki_file: Path) -> str:
     return ""
 
 
+def _get_series_title(slug: str) -> str:
+    """wiki/{slug}.md frontmatter에서 title 추출"""
+    wiki_file = WIKI_DIR / f"{slug}.md"
+    if not wiki_file.exists():
+        return slug
+    try:
+        post = frontmatter.load(wiki_file)
+        return post.metadata.get("title", slug)
+    except Exception:
+        return slug
+
+
 def update_index(slug_summaries: dict[str, str]):
     """wiki/INDEX.md 전체 갱신 (wiki/ 디렉토리의 모든 .md 파일 포함)"""
     existing: dict[str, str] = {}
@@ -247,12 +259,13 @@ def update_index(slug_summaries: dict[str, str]):
 
     rows = ""
     for slug, summary in sorted(existing.items()):
-        display = get_display(slug)
-        rows += f"| {display} | {slug}.md | {summary} |\n"
+        # 시리즈 제목: wiki 파일 frontmatter에서 읽기, 없으면 slug 사용
+        title = _get_series_title(slug) or slug
+        rows += f"| {title} | {slug}.md | {summary} |\n"
 
     WIKI_DIR.mkdir(exist_ok=True)
     (WIKI_DIR / "INDEX.md").write_text(INDEX_HEADER + rows, encoding="utf-8")
-    print(f"  ✓ wiki/INDEX.md 갱신 ({len(existing)}개 주제)")
+    print(f"  ✓ wiki/INDEX.md 갱신 ({len(existing)}개 시리즈)")
 
 
 def _today() -> str:
@@ -304,54 +317,51 @@ def main():
         print("[경고] raw/ 에 처리할 파일이 없습니다.")
         return
 
-    # 재컴파일 대상 slug 결정
+    # 재컴파일 대상 시리즈 slug 결정
     if args.changed_files:
         target_slugs: set[str] = set()
         for f in args.changed_files:
             changed_path = Path(f)
-            # raw/{series-folder}/{file}.md 또는 raw/{file}.md 모두 처리
-            candidates = []
-            if changed_path.parts and len(changed_path.parts) >= 2:
-                # 서브폴더 경로: raw/시리즈명/파일.md → 시리즈 폴더의 _meta.md 읽기
-                series_folder = RAW_DIR / changed_path.parts[-2] if len(changed_path.parts) >= 2 else None
-                if series_folder and series_folder.is_dir():
-                    meta_file = series_folder / "_meta.md"
+            # raw/{series-folder}/... → 시리즈 폴더명으로 slug 결정
+            parts = changed_path.parts
+            # "raw/시리즈폴더/파일.md" 형태에서 시리즈 폴더명 추출
+            raw_idx = next((i for i, p in enumerate(parts) if p == "raw"), -1)
+            if raw_idx >= 0 and len(parts) > raw_idx + 1:
+                series_folder_name = parts[raw_idx + 1]
+                s_slug = korean_slugify(series_folder_name) or series_folder_name
+                if s_slug in all_groups:
+                    target_slugs.add(s_slug)
+                else:
+                    # _meta.md 에서 seriesSlug 읽기
+                    meta_file = RAW_DIR / series_folder_name / "_meta.md"
                     if meta_file.exists():
-                        candidates.append(meta_file)
-            # flat 파일 경로도 시도
-            flat_file = RAW_DIR / changed_path.name
-            if flat_file.exists():
-                candidates.append(flat_file)
-
-            for candidate in candidates:
-                try:
-                    post = frontmatter.load(candidate)
-                    slug = post.metadata.get("categorySlug") or get_slug(
-                        post.metadata.get("category", "일반")
-                    )
-                    target_slugs.add(slug)
-                except Exception:
-                    pass
+                        try:
+                            meta = frontmatter.load(meta_file)
+                            title = meta.metadata.get("title", series_folder_name)
+                            s_slug = meta.metadata.get("seriesSlug") or korean_slugify(title)
+                            target_slugs.add(s_slug)
+                        except Exception:
+                            pass
         print(f"Incremental 컴파일: {target_slugs}")
     else:
         target_slugs = set(all_groups.keys())
-        print(f"전체 컴파일: {len(target_slugs)}개 카테고리")
+        print(f"전체 컴파일: {len(target_slugs)}개 시리즈")
 
     slug_summaries: dict[str, str] = {}
     slugs = sorted(target_slugs)
     for i, slug in enumerate(slugs):
-        articles = all_groups.get(slug, [])
-        if not articles:
+        group = all_groups.get(slug)
+        if not group:
             print(f"  건너뜀: {slug} (아티클 없음)")
             continue
         if args.skip_existing and (WIKI_DIR / f"{slug}.md").exists():
             print(f"  건너뜀: {slug} (이미 존재)")
             continue
-        summary = compile_category(slug, articles, model)
+        summary = compile_series(slug, group["title"], group["articles"], model)
         slug_summaries[slug] = summary
-        # 카테고리 간 rate limit 방지 (마지막 제외)
+        # 시리즈 간 rate limit 방지 (마지막 제외)
         if i < len(slugs) - 1:
-            time.sleep(15)
+            time.sleep(5)
 
     update_index(slug_summaries)
     print("\n컴파일 완료!")
