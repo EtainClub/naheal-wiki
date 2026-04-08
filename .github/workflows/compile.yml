@@ -2,7 +2,7 @@ name: Compile Wiki
 
 on:
   push:
-    paths: ["raw/**"]
+    paths: ["raw/**", "scripts/**"]
   workflow_dispatch:
 
 permissions:
