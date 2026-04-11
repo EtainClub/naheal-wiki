@@ -5,6 +5,10 @@ on:
     paths: ["raw/**", "scripts/**"]
   workflow_dispatch:
 
+concurrency:
+  group: compile-wiki
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -14,12 +18,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          fetch-depth: 0
 
       - name: Get changed raw files
         id: changed
         run: |
-          FILES=$(git diff --name-only HEAD~1 HEAD -- raw/ | tr '\n' ' ')
+          FILES=$(git diff --name-only HEAD^ HEAD -- raw/ | tr '\n' ' ')
           echo "files=$FILES" >> $GITHUB_OUTPUT
           echo "Changed files: $FILES"
 
