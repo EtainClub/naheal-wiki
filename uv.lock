@@ -864,7 +864,7 @@ wheels = [
 ]
 
 [[package]]
-name = "naheal-cancer-wiki"
+name = "naheal-wiki"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [
