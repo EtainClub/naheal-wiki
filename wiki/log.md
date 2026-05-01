@@ -20,3 +20,7 @@
 
 ## [2026-05-01] ingest | 성격 분석의 적용과 위험
   - updated: concepts/성격-갑옷.md (+섹션: "적응증과 금기증", "치료의 한계와 성격 변화")
+
+## [2026-05-01] ingest | 성격 분석의 적용과 위험
+  - created: concepts/성격-갑옷.md
+  - created: concepts/성격-분석-치료.md
