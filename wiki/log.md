@@ -72,3 +72,7 @@
 ## [2026-05-08] ingest | 슈퍼 보충제
   - created: concepts/암-재발-방지.md
   - updated: concepts/암-산업.md (+섹션: "자연 치유 생존자 사례", "지식의 힘")
+
+## [2026-05-08] ingest | The Dirty Dozen (vOgfEvAO901RfHyTrbRe)
+  - created: concepts/호전-반응.md
+  - updated: concepts/거슨-요법.md (+섹션: "치유 사례 증언")
