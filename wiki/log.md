@@ -110,3 +110,6 @@
 ## [2026-05-08] ingest | 부록 (Cancer Step Outside the Box)
   - created: concepts/대체-암-클리닉.md
   - updated: concepts/아미그달린.md (+섹션: "치유 증언: 빅 와일리 사례", "제이슨 베일 기소 사건")
+
+## [2026-05-08] ingest | 해석 및 저항 분석의 기법
+  - updated: concepts/성격-분석-치료.md (+섹션: "저항 우선 원칙", "치료 순서: 역순 전개", "일관성 원칙과 저항의 회피 패턴")
