@@ -28,3 +28,6 @@
 ## [2026-05-08] ingest | 치료에도 정답이 있을까
   - created: concepts/전이.md
   - updated: concepts/성격-분석-치료.md (+섹션: "치료의 체계성 원칙", "출발점: 방어 방식 우선 분석")
+
+## [2026-05-08] ingest | 암 산업 (Cancer Step Outside the Box)
+  - created: concepts/암-산업.md
