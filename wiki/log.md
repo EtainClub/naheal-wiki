@@ -106,3 +106,7 @@
 ## [2026-05-08] ingest | 최종 결론 (Cancer Step Outside the Box)
   - created: concepts/자가-치유-능력.md
   - updated: concepts/의료-자기주권.md (+섹션: "지식의 힘과 주권 회복")
+
+## [2026-05-08] ingest | 부록 (Cancer Step Outside the Box)
+  - created: concepts/대체-암-클리닉.md
+  - updated: concepts/아미그달린.md (+섹션: "치유 증언: 빅 와일리 사례", "제이슨 베일 기소 사건")
