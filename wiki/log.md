@@ -43,3 +43,7 @@
 ## [2026-05-08] ingest | 독성 치료 (Cancer Step Outside the Box)
   - created: concepts/표준-암-치료.md
   - updated: concepts/암-산업.md (+섹션: "5년 생존율 기준과 통계 조작", "종양 전문의 자가 치료 거부")
+
+## [2026-05-08] ingest | 생물학 기초와 암 (qYBVAWZkXBiuNstdEwss)
+  - created: concepts/바르부르크-효과.md
+  - created: concepts/암-환경론.md
