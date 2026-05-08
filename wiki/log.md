@@ -98,3 +98,7 @@
 
 ## [2026-05-08] ingest | 마법의 콩인가, 독이 든 씨앗인가?
   - created: concepts/대두.md
+
+## [2026-05-08] ingest | 국제식품규격위원회 (Cancer Step Outside the Box)
+  - created: concepts/코덱스-알리멘타리우스.md
+  - updated: concepts/의료-자기주권.md (+섹션: "국제 규제 환경과 건강 주권")
