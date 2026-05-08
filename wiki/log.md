@@ -117,3 +117,8 @@
 ## [2026-05-08] ingest | 성격 분석의 기법에 관하여
   - updated: concepts/성격-분석-치료.md (+섹션: "형식(How) 분석 원칙", "저항 유형별 임상 사례")
   - updated: concepts/성격-갑옷.md (+섹션: "갑옷의 행동적 표현 형태")
+
+## [2026-05-08] ingest | 전이의 취급에 관하여
+  - created: concepts/역전이.md
+  - updated: concepts/전이.md (+섹션: "가짜 사랑의 3가지 유형", "증류 과정 — 진짜 사랑을 걸러내는 법", "전이의 이동 — 치료의 마지막 단계")
+  - updated: concepts/리비도.md (+섹션: "금욕 규칙 비판과 자위행위")
