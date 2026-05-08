@@ -131,3 +131,7 @@
   - created: concepts/정서적-페스트.md
   - updated: concepts/성격-갑옷.md (+섹션: "근육 갑옷: 몸에 새겨진 갑옷", "생식적 성격과 신경증적 성격")
   - updated: concepts/성격-분석-치료.md (+섹션: "분석 원칙: '무엇'이 아니라 '어떻게'를 보라", "오르가즘 능력: 치료의 최종 목표")
+
+## [2026-05-08] ingest | 몸속에서 일어나는 진화
+  - created: concepts/암세포-진화.md
+  - updated: concepts/표준-암-치료.md (+섹션: "공격적 치료와 약물 내성")
