@@ -63,3 +63,8 @@
 
 ## [2026-05-08] ingest | 영양과 악액질
   - updated: concepts/암-환경론.md (+섹션: "아말감과 수은 독성", "수돗물 불소·염소", "전자기파 노출", "생활화학물질 피부 흡수")
+
+## [2026-05-08] ingest | 허브와 음식 (Cancer Step Outside the Box)
+  - created: concepts/만성-염증.md
+  - created: concepts/간-해독.md
+  - created: concepts/림프계.md
