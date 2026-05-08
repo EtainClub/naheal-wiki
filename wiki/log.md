@@ -35,3 +35,7 @@
 ## [2026-05-08] ingest | 거짓, 프로파간다, 탐욕
   - created: concepts/프로파간다.md
   - updated: concepts/암-산업.md (+섹션: "증상 관리와 완치 기피")
+
+## [2026-05-08] ingest | 박해와 탄압 (nysYRWsXc4PiMISA4oSS)
+  - created: concepts/아미그달린.md
+  - updated: concepts/암-산업.md (+섹션: "역사적 탄압 사례")
