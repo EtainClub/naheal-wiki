@@ -51,3 +51,8 @@
 ## [2026-05-08] ingest | 비독성 치료법들 (Cancer Step Outside the Box)
   - created: concepts/항암-식이요법.md
   - created: concepts/부드비히-식단.md
+
+## [2026-05-08] ingest | 두 가지 일반 암 (jWp06RwytBZDx6KxCtEX)
+  - updated: concepts/아미그달린.md (+섹션: "작용 기전")
+  - created: concepts/비타민-D3.md
+  - created: concepts/항암-면역-보충제.md
