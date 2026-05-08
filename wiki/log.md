@@ -76,3 +76,7 @@
 ## [2026-05-08] ingest | The Dirty Dozen (vOgfEvAO901RfHyTrbRe)
   - created: concepts/호전-반응.md
   - updated: concepts/거슨-요법.md (+섹션: "치유 사례 증언")
+
+## [2026-05-08] ingest | 아스파탐
+  - created: concepts/아스파탐.md
+  - updated: concepts/암-산업.md (+섹션: "아스파탐 허가 비리 사례")
