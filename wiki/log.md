@@ -122,3 +122,7 @@
   - created: concepts/역전이.md
   - updated: concepts/전이.md (+섹션: "가짜 사랑의 3가지 유형", "증류 과정 — 진짜 사랑을 걸러내는 법", "전이의 이동 — 치료의 마지막 단계")
   - updated: concepts/리비도.md (+섹션: "금욕 규칙 비판과 자위행위")
+
+## [2026-05-08] ingest | 유아기 성적 갈등의 성격학적 해결
+  - created: concepts/오이디푸스-콤플렉스.md
+  - updated: concepts/성격-갑옷.md (+섹션: "갑옷 형성의 3단계", "갑옷이 형성되는 결정적 시기")
