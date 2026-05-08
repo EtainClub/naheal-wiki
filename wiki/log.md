@@ -80,3 +80,6 @@
 ## [2026-05-08] ingest | 아스파탐
   - created: concepts/아스파탐.md
   - updated: concepts/암-산업.md (+섹션: "아스파탐 허가 비리 사례")
+
+## [2026-05-08] ingest | 불소 - 건강의 수호자인가, 치명적인 독소인가?
+  - created: concepts/불소.md
