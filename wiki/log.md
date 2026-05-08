@@ -90,3 +90,8 @@
 ## [2026-05-08] ingest | 수은과 알츠하이머병 - 뇌를 파괴하는 은색 침입자
   - created: concepts/수은-아말감.md
   - created: concepts/킬레이션-요법.md
+
+## [2026-05-08] ingest | 마음과 몸의 연결 - 보이지 않는 치유의 열쇠
+  - created: concepts/스트레스-호르몬.md
+  - created: concepts/노시보-효과.md
+  - updated: concepts/치유-공동체.md (+섹션: "용서와 치유 에너지", "웃음과 엔도르핀")
