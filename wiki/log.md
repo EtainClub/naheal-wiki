@@ -47,3 +47,7 @@
 ## [2026-05-08] ingest | 생물학 기초와 암 (qYBVAWZkXBiuNstdEwss)
   - created: concepts/바르부르크-효과.md
   - created: concepts/암-환경론.md
+
+## [2026-05-08] ingest | 비독성 치료법들 (Cancer Step Outside the Box)
+  - created: concepts/항암-식이요법.md
+  - created: concepts/부드비히-식단.md
