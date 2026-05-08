@@ -39,3 +39,7 @@
 ## [2026-05-08] ingest | 박해와 탄압 (nysYRWsXc4PiMISA4oSS)
   - created: concepts/아미그달린.md
   - updated: concepts/암-산업.md (+섹션: "역사적 탄압 사례")
+
+## [2026-05-08] ingest | 독성 치료 (Cancer Step Outside the Box)
+  - created: concepts/표준-암-치료.md
+  - updated: concepts/암-산업.md (+섹션: "5년 생존율 기준과 통계 조작", "종양 전문의 자가 치료 거부")
