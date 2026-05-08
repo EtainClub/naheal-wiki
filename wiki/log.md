@@ -68,3 +68,7 @@
   - created: concepts/만성-염증.md
   - created: concepts/간-해독.md
   - created: concepts/림프계.md
+
+## [2026-05-08] ingest | 슈퍼 보충제
+  - created: concepts/암-재발-방지.md
+  - updated: concepts/암-산업.md (+섹션: "자연 치유 생존자 사례", "지식의 힘")
