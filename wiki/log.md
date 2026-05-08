@@ -86,3 +86,7 @@
 
 ## [2026-05-08] ingest | 백신 - 질병 예방의 탈을 쓴 치명적인 독약
   - created: concepts/백신.md
+
+## [2026-05-08] ingest | 수은과 알츠하이머병 - 뇌를 파괴하는 은색 침입자
+  - created: concepts/수은-아말감.md
+  - created: concepts/킬레이션-요법.md
