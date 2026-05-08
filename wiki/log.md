@@ -102,3 +102,7 @@
 ## [2026-05-08] ingest | 국제식품규격위원회 (Cancer Step Outside the Box)
   - created: concepts/코덱스-알리멘타리우스.md
   - updated: concepts/의료-자기주권.md (+섹션: "국제 규제 환경과 건강 주권")
+
+## [2026-05-08] ingest | 최종 결론 (Cancer Step Outside the Box)
+  - created: concepts/자가-치유-능력.md
+  - updated: concepts/의료-자기주권.md (+섹션: "지식의 힘과 주권 회복")
