@@ -83,3 +83,6 @@
 
 ## [2026-05-08] ingest | 불소 - 건강의 수호자인가, 치명적인 독소인가?
   - created: concepts/불소.md
+
+## [2026-05-08] ingest | 백신 - 질병 예방의 탈을 쓴 치명적인 독약
+  - created: concepts/백신.md
