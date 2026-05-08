@@ -95,3 +95,6 @@
   - created: concepts/스트레스-호르몬.md
   - created: concepts/노시보-효과.md
   - updated: concepts/치유-공동체.md (+섹션: "용서와 치유 에너지", "웃음과 엔도르핀")
+
+## [2026-05-08] ingest | 마법의 콩인가, 독이 든 씨앗인가?
+  - created: concepts/대두.md
