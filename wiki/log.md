@@ -56,3 +56,7 @@
   - updated: concepts/아미그달린.md (+섹션: "작용 기전")
   - created: concepts/비타민-D3.md
   - created: concepts/항암-면역-보충제.md
+
+## [2026-05-08] ingest | Spoiled Rotten
+  - created: concepts/거슨-요법.md
+  - created: concepts/에시악-차.md
