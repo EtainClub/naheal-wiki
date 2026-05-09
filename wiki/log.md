@@ -151,3 +151,7 @@
   - created: concepts/피토의-역설.md
   - updated: concepts/종양-억제-유전자.md (+섹션: "코끼리의 p53 증폭 전략", "고래의 DNA 수리 전략")
   - updated: concepts/암세포-진화.md (+섹션: "진화 속도와 암 억제력")
+
+## [2026-05-09] ingest | 암세포의 은밀한 세계
+  - created: concepts/마이크로바이옴.md
+  - updated: concepts/암세포-진화.md (+섹션: "적소 구축과 종양 미세환경", "집단 전이", "염색체 밖 DNA(ecDNA)")
