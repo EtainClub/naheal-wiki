@@ -155,3 +155,8 @@
 ## [2026-05-09] ingest | 암세포의 은밀한 세계
   - created: concepts/마이크로바이옴.md
   - updated: concepts/암세포-진화.md (+섹션: "적소 구축과 종양 미세환경", "집단 전이", "염색체 밖 DNA(ecDNA)")
+
+## [2026-05-09] ingest | 암을 통제하는 방법
+  - created: concepts/적응형-요법.md
+  - updated: concepts/암세포-진화.md (+섹션: "약물 내성의 자연선택", "암세포 협력과 전이", "종양 미세환경 조절")
+  - updated: concepts/만성-염증.md (+섹션: "돌연변이 속도 억제")
