@@ -172,3 +172,7 @@
 ## [2026-05-09] ingest | 암: 유전자를 넘어 환경을 보다
   - created: concepts/후성유전학.md
   - updated: concepts/종양-억제-유전자.md (+섹션: "P53과 멈춤의 치유")
+
+## [2026-05-09] ingest | 파동: 보이지 않는 힘이 몸을 만든다
+  - created: concepts/형태장.md (사이매틱스, 에너지장, 생체 파동)
+  - created: concepts/명상.md (p53 활성화, 섬모 회복, 습관 형성)
