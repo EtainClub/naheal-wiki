@@ -168,3 +168,7 @@
 ## [2026-05-09] ingest | 시간을 거슬러 올라간 세포
   - created: concepts/역분화.md
   - created: concepts/암-줄기세포.md
+
+## [2026-05-09] ingest | 암: 유전자를 넘어 환경을 보다
+  - created: concepts/후성유전학.md
+  - updated: concepts/종양-억제-유전자.md (+섹션: "P53과 멈춤의 치유")
