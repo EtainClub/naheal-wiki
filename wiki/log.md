@@ -164,3 +164,7 @@
 ## [2026-05-09] ingest | 프롤로그 (뫔. 재발 전이암도 반드시 낫는다) · mRlJJ57vqk1ouLQzCn7T
   - created: concepts/암-생활습관병.md
   - updated: concepts/자가-치유-능력.md (+섹션: "내 안의 의사 — 치유의 주인공")
+
+## [2026-05-09] ingest | 시간을 거슬러 올라간 세포
+  - created: concepts/역분화.md
+  - created: concepts/암-줄기세포.md
