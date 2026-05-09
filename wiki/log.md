@@ -160,3 +160,7 @@
   - created: concepts/적응형-요법.md
   - updated: concepts/암세포-진화.md (+섹션: "약물 내성의 자연선택", "암세포 협력과 전이", "종양 미세환경 조절")
   - updated: concepts/만성-염증.md (+섹션: "돌연변이 속도 억제")
+
+## [2026-05-09] ingest | 프롤로그 (뫔. 재발 전이암도 반드시 낫는다) · mRlJJ57vqk1ouLQzCn7T
+  - created: concepts/암-생활습관병.md
+  - updated: concepts/자가-치유-능력.md (+섹션: "내 안의 의사 — 치유의 주인공")
