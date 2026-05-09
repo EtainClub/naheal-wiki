@@ -135,3 +135,6 @@
 ## [2026-05-08] ingest | 몸속에서 일어나는 진화
   - created: concepts/암세포-진화.md
   - updated: concepts/표준-암-치료.md (+섹션: "공격적 치료와 약물 내성")
+
+## [2026-05-09] ingest | 암은 왜 진화하는가
+  - updated: concepts/암세포-진화.md (+섹션: "진화의 세 가지 조건", "이기적 유전자와 암세포")
