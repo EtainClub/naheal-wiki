@@ -242,3 +242,7 @@
   - created: concepts/회복탄력성.md
   - updated: concepts/자가-치유-능력.md (+섹션: "꿈과 질병 — 무의식의 신호")
   - updated: concepts/3차원-통합-치유-모델.md (+섹션: "나다움의 회복 — 치유의 완성")
+
+## [2026-05-10] ingest | 암의 재발과 전이를 다스리는 통합 의학적 통찰
+  - created: concepts/통합-의학.md
+  - updated: concepts/암-줄기세포.md (+섹션: "3단계 치료 모델과의 연계")
