@@ -310,3 +310,7 @@
 ## [2026-05-10] ingest | 맨발 걷기와 암 치유 주장
   - updated: concepts/어싱.md (+섹션: "Clint Ober의 염증·암 예방 주장")
   - updated: concepts/맨발걷기.md (+섹션: "암 치유 보완 요법으로서의 역할")
+
+## [2026-05-10] ingest | 맨발 걷기와 자율신경계 그리고 암
+  - updated: concepts/자율신경.md (+섹션: "교감신경 우세 사회", "만성 교감신경 활성화와 암")
+  - updated: concepts/맨발걷기.md (+섹션: "부교감신경 활성화 효과")
