@@ -253,3 +253,7 @@
 ## [2026-05-10] ingest | 어싱 이론의 시작 (FDC7cwklDRq4admv9ZfM)
   - created: concepts/어싱.md
   - updated: concepts/맨발걷기.md (+섹션: "어싱 이론과의 연결")
+
+## [2026-05-10] ingest | 어싱 이론 설명 (jZkj0nBdcY6L2EpvFzNY)
+  - created: concepts/활성산소.md
+  - updated: concepts/어싱.md (+섹션: "콜라겐의 전자 저장 역할", "접지 이론의 과학적 탐구 과제")
