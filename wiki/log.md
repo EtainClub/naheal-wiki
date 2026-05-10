@@ -201,3 +201,8 @@
   - created: concepts/2차적-이득.md
   - created: concepts/핵심-욕구.md
   - updated: concepts/자가-치유-능력.md (+섹션: "무의식 탐색과 자가 치유")
+
+## [2026-05-10] ingest | [사례] 폐암 전이 치유
+  - created: concepts/경락-감정.md
+  - updated: concepts/핵심-욕구.md (+섹션: "무의식 욕구 충족과 신체 회복")
+  - updated: concepts/가족-역동.md (+섹션: "보호자 통합 치료")
