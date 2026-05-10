@@ -319,3 +319,7 @@
   - created: concepts/부교감신경.md
   - updated: concepts/자율신경.md (+섹션: "현대 사회의 교감신경 우세", "암 치유와 자율신경 균형")
   - updated: concepts/맨발걷기.md (+섹션: "부교감신경 활성화 기전")
+
+## [2026-05-10] ingest | 섹슈얼리티의 기능으로서의 생식
+  - created: concepts/오르곤-공식.md
+  - created: concepts/상대적-성.md
