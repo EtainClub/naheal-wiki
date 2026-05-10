@@ -323,3 +323,6 @@
 ## [2026-05-10] ingest | 섹슈얼리티의 기능으로서의 생식
   - created: concepts/오르곤-공식.md
   - created: concepts/상대적-성.md
+
+## [2026-05-10] ingest | 성-경제 생활 연구소의 생물학 실험 작업 보고서
+  - created: concepts/비온.md
