@@ -431,3 +431,6 @@
 ## [2026-05-10] ingest | 난소암 (암치유 사례 영상)
   - created: concepts/난소암.md
   - updated: concepts/암-재발-방지.md (+섹션: "암 이기는 공부")
+
+## [2026-05-10] ingest | 식도암 (암치유 사례 영상)
+  - created: concepts/식도암.md
