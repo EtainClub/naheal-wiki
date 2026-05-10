@@ -277,3 +277,7 @@
 ## [2026-05-10] ingest | 어싱 테스트 (series: 맨발과 어싱)
   - updated: concepts/어싱.md (+섹션: "전압 측정 실험의 과학적 해석", "저항 측정의 의미와 실내 접지 안전 주의")
   - updated: concepts/활성산소.md (+섹션: "어싱을 통한 활성산소 중화 이론의 한계")
+
+## [2026-05-10] ingest | 정전기 (시리즈: 맨발과 어싱)
+  - created: concepts/정전기.md
+  - updated: concepts/어싱.md (+섹션: "절연체 신발과 정전기 방출의 한계")
