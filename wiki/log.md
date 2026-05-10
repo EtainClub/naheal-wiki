@@ -220,3 +220,7 @@
   - created: concepts/심리극.md
   - created: concepts/위장과-감정.md
   - updated: concepts/자가-치유-능력.md (+섹션: "죄책감 해소와 즉각적 신체 회복")
+
+## [2026-05-10] ingest | [사례] 난소암 재발 치유
+  - created: concepts/여성성-억압.md
+  - updated: concepts/암-재발-방지.md (+섹션: "삶의 근본적 전환과 재발 고리 차단")
