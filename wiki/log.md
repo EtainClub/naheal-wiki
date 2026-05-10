@@ -424,3 +424,6 @@
 
 ## [2026-05-10] ingest | 유방암 치유 사례 모음 (암치유 사례 영상)
   - created: concepts/유방암.md
+
+## [2026-05-10] ingest | 폐암 (암치유 사례 영상)
+  - created: concepts/폐암.md
