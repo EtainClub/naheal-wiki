@@ -306,3 +306,7 @@
 
 ## [2026-05-10] ingest | 어싱을 한 사람들의 경험
   - updated: concepts/맨발걷기.md (+섹션: "정서·심리적 효과", "암 치유 체험 사례")
+
+## [2026-05-10] ingest | 맨발 걷기와 암 치유 주장
+  - updated: concepts/어싱.md (+섹션: "Clint Ober의 염증·암 예방 주장")
+  - updated: concepts/맨발걷기.md (+섹션: "암 치유 보완 요법으로서의 역할")
