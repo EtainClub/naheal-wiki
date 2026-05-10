@@ -237,3 +237,8 @@
 ## [2026-05-10] ingest | 통합 치유 모델의 세부 원리 (t3WvdXEpWy5mmCz0L8l0)
   - created: concepts/3차원-통합-치유-모델.md
   - updated: concepts/치유-공동체.md (+섹션: "MD앤더슨의 공동체 우선 원칙", "장기 치유 레이스와 동료의 힘")
+
+## [2026-05-10] ingest | 무의식의 신호와 치유의 완성
+  - created: concepts/회복탄력성.md
+  - updated: concepts/자가-치유-능력.md (+섹션: "꿈과 질병 — 무의식의 신호")
+  - updated: concepts/3차원-통합-치유-모델.md (+섹션: "나다움의 회복 — 치유의 완성")
