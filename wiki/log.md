@@ -215,3 +215,8 @@
 ## [2026-05-10] ingest | [사례] 자궁암 재발 치유 (ylS25Hksl6aN6O1bEPVV)
   - created: concepts/상열하한.md
   - updated: concepts/자가-치유-능력.md (+섹션: "성 에너지 수용과 신체 회복")
+
+## [2026-05-10] ingest | [사례] 위암 치유
+  - created: concepts/심리극.md
+  - created: concepts/위장과-감정.md
+  - updated: concepts/자가-치유-능력.md (+섹션: "죄책감 해소와 즉각적 신체 회복")
