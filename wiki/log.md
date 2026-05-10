@@ -364,3 +364,7 @@
 ## [2026-05-10] ingest | 조상의 지혜와 생명의 뿌리 (Plant Spirit Medicine)
   - created: concepts/조상-연결.md
   - updated: concepts/식물-영령-의학.md (+섹션: "식물: 인류의 가장 오래된 조상")
+
+## [2026-05-10] ingest | 감정, 마음의 날씨를 돌보는 지혜
+  - updated: concepts/경락-감정.md (+섹션: "오행과 감정-장기 연결", "감정 정체와 질병")
+  - updated: concepts/식물-영령-의학.md (+섹션: "감정 치유와 식물 정령", "감정은 관계의 산물")
