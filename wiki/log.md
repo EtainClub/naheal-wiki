@@ -344,3 +344,6 @@
 ## [2026-05-10] ingest | 전체 요약 (오르곤 기능학, A9w4vJm9PdSrkwSj2x0I)
   - created: concepts/노동-민주주의.md
   - updated: concepts/오르곤-공식.md (+섹션: "오르가즘 공식의 4단계 구조", "생식은 섹슈얼리티의 일부")
+
+## [2026-05-10] ingest | 식물 영령 의학의 꿈과 잃어버린 우정
+  - created: concepts/식물-영령-의학.md
