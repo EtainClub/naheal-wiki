@@ -184,3 +184,7 @@
 ## [2026-05-10] ingest | 천연물의 치료 원리 (YC4icfuHyHLEf7WbmMMs)
   - created: concepts/다중표적-치료.md
   - updated: concepts/항암-식이요법.md (+섹션: "흡수 효율 전략", "소화 효소와 대사 효소의 균형", "소장 건강과 면역")
+
+## [2026-05-10] ingest | 통증의 본질과 치유 신호
+  - created: concepts/통증.md
+  - updated: concepts/자가-치유-능력.md (+섹션: "통증을 통한 치유 채널")
