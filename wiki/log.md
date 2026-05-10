@@ -413,3 +413,8 @@
 ## [2026-05-10] ingest | 돈 루시오 캄포스와 날씨의 정령
   - created: concepts/날씨의-정령.md
   - updated: concepts/식물-영령-의학.md (+섹션: "자연 전체로의 확장")
+
+## [2026-05-10] ingest | 신성한 의례와 공동체의 회복
+  - created: concepts/의례.md
+  - updated: concepts/치유-공동체.md (+섹션: "의례를 통한 공동체 회복")
+  - updated: concepts/식물-영령-의학.md (+섹션: "의례에서의 식물 정령 역할")
