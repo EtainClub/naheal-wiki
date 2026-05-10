@@ -206,3 +206,8 @@
   - created: concepts/경락-감정.md
   - updated: concepts/핵심-욕구.md (+섹션: "무의식 욕구 충족과 신체 회복")
   - updated: concepts/가족-역동.md (+섹션: "보호자 통합 치료")
+
+## [2026-05-10] ingest | [사례] 자궁암 4기 전이 치유
+  - created: concepts/가족-세우기.md
+  - updated: concepts/가족-역동.md (+섹션: "심리적 융합과 정서적 독립")
+  - updated: concepts/역분화.md (+섹션: "심리적 융합과의 유사성")
