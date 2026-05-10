@@ -391,3 +391,7 @@
 ## [2026-05-10] ingest | 금(Metal)의 에너지와 영적인 가치의 발견
   - updated: concepts/오행.md (+섹션: "금(金) 에너지", "금 에너지 불균형")
   - updated: concepts/식물-영령-의학.md (+섹션: "금(金)의 식물 정령")
+
+## [2026-05-10] ingest | 물(Water)의 에너지와 멈추지 않는 생명력
+  - updated: concepts/오행.md (+섹션: "물(水) 에너지", "물 에너지 불균형")
+  - updated: concepts/식물-영령-의학.md (+섹션: "물의 식물 정령")
