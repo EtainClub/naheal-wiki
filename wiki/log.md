@@ -257,3 +257,6 @@
 ## [2026-05-10] ingest | 어싱 이론 설명 (jZkj0nBdcY6L2EpvFzNY)
   - created: concepts/활성산소.md
   - updated: concepts/어싱.md (+섹션: "콜라겐의 전자 저장 역할", "접지 이론의 과학적 탐구 과제")
+
+## [2026-05-10] ingest | 어싱과 관련된 잘못된 정보
+  - updated: concepts/어싱.md (+섹션: "잘못된 정보와 과학적 해명", "다학제적 연구의 필요성")
