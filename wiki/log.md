@@ -314,3 +314,8 @@
 ## [2026-05-10] ingest | 맨발 걷기와 자율신경계 그리고 암
   - updated: concepts/자율신경.md (+섹션: "교감신경 우세 사회", "만성 교감신경 활성화와 암")
   - updated: concepts/맨발걷기.md (+섹션: "부교감신경 활성화 효과")
+
+## [2026-05-10] ingest | 암 치유의 핵심 (시리즈: 맨발과 어싱)
+  - created: concepts/부교감신경.md
+  - updated: concepts/자율신경.md (+섹션: "현대 사회의 교감신경 우세", "암 치유와 자율신경 균형")
+  - updated: concepts/맨발걷기.md (+섹션: "부교감신경 활성화 기전")
