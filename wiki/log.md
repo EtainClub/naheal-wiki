@@ -265,3 +265,7 @@
   - created: concepts/자유전자.md
   - updated: concepts/어싱.md (+relatedConcepts: "자유전자")
   - updated: concepts/맨발걷기.md (+relatedConcepts: "자유전자")
+
+## [2026-05-10] ingest | 전자는 얼마나 느린가
+  - created: concepts/표류-속도.md
+  - updated: concepts/자유전자.md (+섹션: "표류 속도와 어싱")
