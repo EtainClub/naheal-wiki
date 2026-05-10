@@ -438,3 +438,8 @@
 ## [2026-05-10] ingest | 위암 (암치유 사례 영상)
   - created: concepts/위암.md
   - updated: concepts/유방암.md (+섹션: "위암 동반 극복 사례")
+
+## [2026-05-10] ingest | 서문 (Forward) — 암 생물병질 시리즈
+  - created: concepts/오르곤-에너지.md
+  - created: concepts/암-생물병질.md
+  - updated: concepts/바르부르크-효과.md (+섹션: "라이히의 관점: 전신 호흡 기능 손상의 부분 증상")
