@@ -443,3 +443,7 @@
   - created: concepts/오르곤-에너지.md
   - created: concepts/암-생물병질.md
   - updated: concepts/바르부르크-효과.md (+섹션: "라이히의 관점: 전신 호흡 기능 손상의 부분 증상")
+
+## [2026-05-10] ingest | 머리말 (암 생물병질)
+  - created: concepts/에너지-기능주의.md
+  - updated: concepts/오르곤-에너지.md (+섹션: "암 이해를 위한 5가지 조건")
