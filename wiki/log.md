@@ -233,3 +233,7 @@
   - created: concepts/단전호흡.md
   - created: concepts/명문-자세.md
   - updated: concepts/암-생활습관병.md (+섹션: "성격과 암 사망률 — 아이젠크 연구", "100일 루틴과 습관 전환")
+
+## [2026-05-10] ingest | 통합 치유 모델의 세부 원리 (t3WvdXEpWy5mmCz0L8l0)
+  - created: concepts/3차원-통합-치유-모델.md
+  - updated: concepts/치유-공동체.md (+섹션: "MD앤더슨의 공동체 우선 원칙", "장기 치유 레이스와 동료의 힘")
