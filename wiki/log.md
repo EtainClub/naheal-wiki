@@ -176,3 +176,7 @@
 ## [2026-05-09] ingest | 파동: 보이지 않는 힘이 몸을 만든다
   - created: concepts/형태장.md (사이매틱스, 에너지장, 생체 파동)
   - created: concepts/명상.md (p53 활성화, 섬모 회복, 습관 형성)
+
+## [2026-05-10] ingest | 종양 미세환경과 만성 염증
+  - created: concepts/종양-미세환경.md
+  - updated: concepts/만성-염증.md (+섹션: "낫지 않는 상처 기전")
