@@ -387,3 +387,7 @@
   - updated: concepts/오행.md (+섹션: "흙(土) 에너지", "흙 에너지 불균형")
   - updated: concepts/식물-영령-의학.md (+섹션: "흙의 식물 정령")
   - updated: concepts/위장과-감정.md (+섹션: "비장과 경험 소화")
+
+## [2026-05-10] ingest | 금(Metal)의 에너지와 영적인 가치의 발견
+  - updated: concepts/오행.md (+섹션: "금(金) 에너지", "금 에너지 불균형")
+  - updated: concepts/식물-영령-의학.md (+섹션: "금(金)의 식물 정령")
