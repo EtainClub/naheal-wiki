@@ -260,3 +260,8 @@
 
 ## [2026-05-10] ingest | 어싱과 관련된 잘못된 정보
   - updated: concepts/어싱.md (+섹션: "잘못된 정보와 과학적 해명", "다학제적 연구의 필요성")
+
+## [2026-05-10] ingest | 자유전자 (맨발과 어싱)
+  - created: concepts/자유전자.md
+  - updated: concepts/어싱.md (+relatedConcepts: "자유전자")
+  - updated: concepts/맨발걷기.md (+relatedConcepts: "자유전자")
