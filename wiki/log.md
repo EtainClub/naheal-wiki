@@ -281,3 +281,6 @@
 ## [2026-05-10] ingest | 정전기 (시리즈: 맨발과 어싱)
   - created: concepts/정전기.md
   - updated: concepts/어싱.md (+섹션: "절연체 신발과 정전기 방출의 한계")
+
+## [2026-05-10] ingest | 어싱 논문 분석1 (yQEBfQMG5Q598SWsWTSp)
+  - updated: concepts/어싱.md (+섹션: "임상 연구 증거 (슈발리에 리뷰 논문)", "연구의 이해충돌 문제")
