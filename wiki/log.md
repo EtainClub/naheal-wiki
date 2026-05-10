@@ -336,3 +336,7 @@
 ## [2026-05-10] ingest | 검전기에서 고무를 사용한 세 가지 실험
   - updated: concepts/비온.md (+섹션: "고무와 검전기를 이용한 생체 에너지 실험")
   - updated: concepts/정전기.md (+섹션: "오르곤 연구에서의 정전기와 생체 에너지 구별")
+
+## [2026-05-10] ingest | 습도가 오르곤 실험에 미치는 영향
+  - created: concepts/오르곤-실험과-습도.md
+  - updated: concepts/정전기.md (+relatedConcepts: "오르곤-실험과-습도")
