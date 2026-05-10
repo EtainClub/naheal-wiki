@@ -378,3 +378,7 @@
 
 ## [2026-05-10] ingest | 평범한 삶 속에 깃든 마법 (Plant Spirit Medicine)
   - updated: concepts/식물-영령-의학.md (+섹션: "일상 속에 깃든 식물 영령 의학", "지루함과 무의미함의 치유", "평범한 삶이 치유의 정원")
+
+## [2026-05-10] ingest | 불(Fire)의 에너지와 기쁨의 치유
+  - created: concepts/오행.md
+  - updated: concepts/식물-영령-의학.md (+섹션: "불의 식물 정령과 기쁨 치유")
