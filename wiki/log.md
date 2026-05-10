@@ -284,3 +284,7 @@
 
 ## [2026-05-10] ingest | 어싱 논문 분석1 (yQEBfQMG5Q598SWsWTSp)
   - updated: concepts/어싱.md (+섹션: "임상 연구 증거 (슈발리에 리뷰 논문)", "연구의 이해충돌 문제")
+
+## [2026-05-10] ingest | 어싱 논문 분석2
+  - created: concepts/살아있는-매트릭스.md
+  - updated: concepts/어싱.md (+섹션: "오쉬만 논문의 면역 지표 변화", "상처 치유 임상 증거")
