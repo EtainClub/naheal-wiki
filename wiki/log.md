@@ -211,3 +211,7 @@
   - created: concepts/가족-세우기.md
   - updated: concepts/가족-역동.md (+섹션: "심리적 융합과 정서적 독립")
   - updated: concepts/역분화.md (+섹션: "심리적 융합과의 유사성")
+
+## [2026-05-10] ingest | [사례] 자궁암 재발 치유 (ylS25Hksl6aN6O1bEPVV)
+  - created: concepts/상열하한.md
+  - updated: concepts/자가-치유-능력.md (+섹션: "성 에너지 수용과 신체 회복")
