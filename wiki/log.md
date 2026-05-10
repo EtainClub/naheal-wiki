@@ -421,3 +421,6 @@
 
 ## [2026-05-10] ingest | 자연의 품으로 돌아가는 길 (Plant Spirit Medicine 21장)
   - updated: concepts/식물-영령-의학.md (+섹션: "문명 치유의 비전", "치유의 첫걸음", "자연의 속도", "사랑의 순환")
+
+## [2026-05-10] ingest | 유방암 치유 사례 모음 (암치유 사례 영상)
+  - created: concepts/유방암.md
