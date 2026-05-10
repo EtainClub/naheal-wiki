@@ -180,3 +180,7 @@
 ## [2026-05-10] ingest | 종양 미세환경과 만성 염증
   - created: concepts/종양-미세환경.md
   - updated: concepts/만성-염증.md (+섹션: "낫지 않는 상처 기전")
+
+## [2026-05-10] ingest | 천연물의 치료 원리 (YC4icfuHyHLEf7WbmMMs)
+  - created: concepts/다중표적-치료.md
+  - updated: concepts/항암-식이요법.md (+섹션: "흡수 효율 전략", "소화 효소와 대사 효소의 균형", "소장 건강과 면역")
