@@ -249,3 +249,7 @@
 
 ## [2026-05-10] ingest | 맨발걷기의 시작
   - created: concepts/맨발걷기.md
+
+## [2026-05-10] ingest | 어싱 이론의 시작 (FDC7cwklDRq4admv9ZfM)
+  - created: concepts/어싱.md
+  - updated: concepts/맨발걷기.md (+섹션: "어싱 이론과의 연결")
