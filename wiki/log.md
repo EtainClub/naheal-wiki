@@ -228,3 +228,8 @@
 ## [2026-05-10] ingest | 환경 개선과 습관 형성의 중요성
   - updated: concepts/후성유전학.md (+섹션: "유전자 스위치 오작동과 암")
   - updated: concepts/암-생활습관병.md (+섹션: "원인 치유와 증상 치료의 구분", "루틴과 환경 조성")
+
+## [2026-05-10] ingest | 습관의 변화를 위해 필요한 3가지
+  - created: concepts/단전호흡.md
+  - created: concepts/명문-자세.md
+  - updated: concepts/암-생활습관병.md (+섹션: "성격과 암 사망률 — 아이젠크 연구", "100일 루틴과 습관 전환")
