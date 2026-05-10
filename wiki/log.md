@@ -360,3 +360,7 @@
 ## [2026-05-10] ingest | 세상을 바라보는 새로운 눈, 통합적 관점
   - created: concepts/통합적-관점.md
   - updated: concepts/식물-영령-의학.md (+섹션: "합일 경험: 치유사가 식물이 되다")
+
+## [2026-05-10] ingest | 조상의 지혜와 생명의 뿌리 (Plant Spirit Medicine)
+  - created: concepts/조상-연결.md
+  - updated: concepts/식물-영령-의학.md (+섹션: "식물: 인류의 가장 오래된 조상")
