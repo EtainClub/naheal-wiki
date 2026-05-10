@@ -196,3 +196,8 @@
 ## [2026-05-10] ingest | [사례] 간암 4기 치유
   - created: concepts/가족-역동.md
   - updated: concepts/자가-치유-능력.md (+섹션: "감정 해소와 신체 변화")
+
+## [2026-05-10] ingest | [사례] 위암 치유 (iIV0tYziVWVJdBVLXxxc)
+  - created: concepts/2차적-이득.md
+  - created: concepts/핵심-욕구.md
+  - updated: concepts/자가-치유-능력.md (+섹션: "무의식 탐색과 자가 치유")
