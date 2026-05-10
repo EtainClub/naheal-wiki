@@ -434,3 +434,7 @@
 
 ## [2026-05-10] ingest | 식도암 (암치유 사례 영상)
   - created: concepts/식도암.md
+
+## [2026-05-10] ingest | 위암 (암치유 사례 영상)
+  - created: concepts/위암.md
+  - updated: concepts/유방암.md (+섹션: "위암 동반 극복 사례")
