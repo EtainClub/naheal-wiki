@@ -246,3 +246,6 @@
 ## [2026-05-10] ingest | 암의 재발과 전이를 다스리는 통합 의학적 통찰
   - created: concepts/통합-의학.md
   - updated: concepts/암-줄기세포.md (+섹션: "3단계 치료 모델과의 연계")
+
+## [2026-05-10] ingest | 맨발걷기의 시작
+  - created: concepts/맨발걷기.md
