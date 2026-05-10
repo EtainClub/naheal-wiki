@@ -418,3 +418,6 @@
   - created: concepts/의례.md
   - updated: concepts/치유-공동체.md (+섹션: "의례를 통한 공동체 회복")
   - updated: concepts/식물-영령-의학.md (+섹션: "의례에서의 식물 정령 역할")
+
+## [2026-05-10] ingest | 자연의 품으로 돌아가는 길 (Plant Spirit Medicine 21장)
+  - updated: concepts/식물-영령-의학.md (+섹션: "문명 치유의 비전", "치유의 첫걸음", "자연의 속도", "사랑의 순환")
