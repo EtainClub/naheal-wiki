@@ -382,3 +382,8 @@
 ## [2026-05-10] ingest | 불(Fire)의 에너지와 기쁨의 치유
   - created: concepts/오행.md
   - updated: concepts/식물-영령-의학.md (+섹션: "불의 식물 정령과 기쁨 치유")
+
+## [2026-05-10] ingest | 흙(Earth)의 에너지와 안정적인 삶의 뿌리 (SqvsUMRij9St0Sv4nlNR)
+  - updated: concepts/오행.md (+섹션: "흙(土) 에너지", "흙 에너지 불균형")
+  - updated: concepts/식물-영령-의학.md (+섹션: "흙의 식물 정령")
+  - updated: concepts/위장과-감정.md (+섹션: "비장과 경험 소화")
