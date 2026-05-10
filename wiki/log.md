@@ -188,3 +188,7 @@
 ## [2026-05-10] ingest | 통증의 본질과 치유 신호
   - created: concepts/통증.md
   - updated: concepts/자가-치유-능력.md (+섹션: "통증을 통한 치유 채널")
+
+## [2026-05-10] ingest | 자율신경과 면역력
+  - created: concepts/자율신경.md
+  - updated: concepts/자가-치유-능력.md (+섹션: "자율신경 균형과 자가 치유")
