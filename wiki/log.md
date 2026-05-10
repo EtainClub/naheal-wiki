@@ -269,3 +269,7 @@
 ## [2026-05-10] ingest | 전자는 얼마나 느린가
   - created: concepts/표류-속도.md
   - updated: concepts/자유전자.md (+섹션: "표류 속도와 어싱")
+
+## [2026-05-10] ingest | 활성산소 (맨발과 어싱 시리즈, articleId: bwnstxPIQ2LQslO7PWzp)
+  - updated: concepts/활성산소.md (+섹션: "생성 메커니즘", "체내 손상 대상", "항산화 시스템", "펜톤·하버-와이스 반응", "신호 전달 물질로서의 역할", "항산화제의 한계와 노화 가설")
+  - updated: concepts/어싱.md (+섹션: "자유전자-활성산소 이론의 한계")
