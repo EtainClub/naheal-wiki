@@ -467,3 +467,7 @@
   - created: concepts/생물병질적-위축.md
   - updated: concepts/암-생물병질.md (+섹션: "생물병질의 정의와 범위", "암 환자의 공통 특징 (성-경제학적 전제)", "암의 진짜 본질: 전신적 위축")
   - updated: concepts/오르곤-축적기.md (+섹션: "암 치료 임상 사례")
+
+## [2026-05-11] ingest | 암세포 (암 생물병질 시리즈)
+  - created: concepts/암세포.md
+  - updated: concepts/비온.md (+섹션: "T-간균과 오르곤 면역 반응")
