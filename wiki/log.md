@@ -497,3 +497,7 @@
 ## [2026-05-11] ingest | 서문 (암은 병이 아니다)
   - created: concepts/암-생존-메커니즘.md
   - updated: concepts/자가-치유-능력.md (+섹션: "일상적 암세포 관리")
+
+## [2026-05-11] ingest | 암은 질병이 아니다
+  - created: concepts/감염과-자연치유.md
+  - updated: concepts/암-생존-메커니즘.md (+섹션: "세포 환경이 유전자를 결정한다")
