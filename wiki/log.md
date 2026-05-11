@@ -511,3 +511,8 @@
 ## [2026-05-11] ingest | 암에 대한 오해 풀기
   - updated: concepts/노시보-효과.md (+섹션: "암 진단 공포와 신체 반응")
   - updated: concepts/심신통합.md (+섹션: "감정 억압 패턴과 암", "용서와 자기수용의 치유 효과")
+
+## [2026-05-11] ingest | 지능적인 몸 (시리즈: 암은 병이 아니다)
+  - created: concepts/항상성.md
+  - updated: concepts/암-생존-메커니즘.md (+섹션: "전이·재발의 진짜 원인")
+  - updated: concepts/자가-치유-능력.md (+섹션: "자연 퇴행")
