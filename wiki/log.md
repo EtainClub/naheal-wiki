@@ -522,3 +522,8 @@
   - updated: concepts/백신.md (+섹션: "중금속 성분과 면역 교란")
   - updated: concepts/대두.md (+섹션: "가공 콩 단백질과 호르몬 균형")
   - updated: concepts/림프계.md (+섹션: "브래지어 착용과 림프 압박")
+
+## [2026-05-11] ingest | 스스로 치유하기 위해 알아야 할 것
+  - created: concepts/수면-치유.md
+  - updated: concepts/비타민-D3.md (+섹션: "햇빛의 직접 치유 역할")
+  - updated: concepts/간-해독.md (+섹션: "혈액 정화와 전신 세포 회복")
