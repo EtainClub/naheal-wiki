@@ -507,3 +507,7 @@
   - updated: concepts/간-해독.md (+섹션: "소화 장애와 담관 막힘")
   - updated: concepts/암-환경론.md (+섹션: "전자파와 세포 신호 교란", "의약품과 자연 치유력 억제")
   - updated: concepts/비타민-D3.md (+섹션: "자외선 차단제·선글라스와 결핍 심화")
+
+## [2026-05-11] ingest | 암에 대한 오해 풀기
+  - updated: concepts/노시보-효과.md (+섹션: "암 진단 공포와 신체 반응")
+  - updated: concepts/심신통합.md (+섹션: "감정 억압 패턴과 암", "용서와 자기수용의 치유 효과")
