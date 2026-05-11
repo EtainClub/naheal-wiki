@@ -489,3 +489,7 @@
 
 ## [2026-05-11] ingest | 메디람 한방병원 (암치유 의료기관)
   - updated: concepts/대체-암-클리닉.md (+섹션: "한방 병원과 암 치료")
+
+## [2026-05-11] ingest | 활명 요양병원
+  - created: concepts/심신통합.md
+  - updated: concepts/자율신경.md (+섹션: "활명LIGHT의 자율신경 균형론")
