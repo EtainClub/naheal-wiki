@@ -516,3 +516,9 @@
   - created: concepts/항상성.md
   - updated: concepts/암-생존-메커니즘.md (+섹션: "전이·재발의 진짜 원인")
   - updated: concepts/자가-치유-능력.md (+섹션: "자연 퇴행")
+
+## [2026-05-11] ingest | 주요 암 위험 요인
+  - created: concepts/전자레인지.md
+  - updated: concepts/백신.md (+섹션: "중금속 성분과 면역 교란")
+  - updated: concepts/대두.md (+섹션: "가공 콩 단백질과 호르몬 균형")
+  - updated: concepts/림프계.md (+섹션: "브래지어 착용과 림프 압박")
