@@ -501,3 +501,9 @@
 ## [2026-05-11] ingest | 암은 질병이 아니다
   - created: concepts/감염과-자연치유.md
   - updated: concepts/암-생존-메커니즘.md (+섹션: "세포 환경이 유전자를 결정한다")
+
+## [2026-05-11] ingest | 암의 물리적 원인
+  - updated: concepts/림프계.md (+섹션: "림프 정체와 암 발생")
+  - updated: concepts/간-해독.md (+섹션: "소화 장애와 담관 막힘")
+  - updated: concepts/암-환경론.md (+섹션: "전자파와 세포 신호 교란", "의약품과 자연 치유력 억제")
+  - updated: concepts/비타민-D3.md (+섹션: "자외선 차단제·선글라스와 결핍 심화")
