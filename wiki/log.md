@@ -482,3 +482,7 @@
 ## [2026-05-11] ingest | 암성 위축성 생물병질에서의 아노르고니아
   - created: concepts/아노르고니아.md
   - updated: concepts/성격-갑옷.md (+섹션: "신생아 최초 갑옷 형성")
+
+## [2026-05-11] ingest | 성(性)사회학적 문제로서의 암 생물병질
+  - created: concepts/오르고논.md
+  - updated: concepts/암-생물병질.md (+섹션: "즐거움 굶주림과 암의 발생 경로", "문명 통계가 보여주는 생물병질 증가")
