@@ -471,3 +471,7 @@
 ## [2026-05-11] ingest | 암세포 (암 생물병질 시리즈)
   - created: concepts/암세포.md
   - updated: concepts/비온.md (+섹션: "T-간균과 오르곤 면역 반응")
+
+## [2026-05-11] ingest | 오르곤 요법 실험의 본질과 발전
+  - created: concepts/오르곤-요법.md
+  - updated: concepts/비온.md (+섹션: "SAPA 방사의 혈액 충전 메커니즘")
