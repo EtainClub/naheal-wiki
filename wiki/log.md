@@ -587,3 +587,8 @@
 ## [2026-06-07] ingest | 현미경 속 세포가 알려주는 생명의 거대한 비밀
   - created: concepts/에피제네틱스.md
   - updated: concepts/세포막.md (+섹션: "세포의 뇌: mem-Brain")
+
+## [2026-06-07] ingest | 페트리 접시가 가르쳐 준 교훈 영리한 세포와 똑똑한 학생들
+  - created: concepts/세포-지능.md
+  - updated: concepts/에피제네틱스.md (+섹션: "면역 기억과 유전자 재설계")
+  - updated: concepts/암세포-진화.md (+섹션: "라마르크의 협력 진화론")
