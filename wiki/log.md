@@ -579,3 +579,7 @@
 ## [2026-06-07] ingest | 7. 면역력을 높이는 밥상 (아보 도오루의 자연의학)
   - updated: concepts/장관-면역계.md (+섹션: "면역 밥상 4대 철칙", "저온 조리 원칙")
   - updated: concepts/간-해독.md (+섹션: "커피 관장의 생화학 기전" — GST·간문맥 경로 추가)
+
+## [2026-06-07] ingest | 서론: 세포의 마술 (신념의 생물학 part-00)
+  - created: concepts/후성유전학.md
+  - created: concepts/세포막.md
