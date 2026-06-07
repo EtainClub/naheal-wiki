@@ -601,3 +601,7 @@
 ## [2026-06-07] ingest | magical mem-Brain, 세포의 진짜 뇌를 찾아서 (신념의 생물학 part-04)
   - updated: concepts/세포막.md (+섹션: "인지질 이중층 구조", "수용체와 효과체 단백질", "생물학적 컴퓨터 칩")
   - updated: concepts/세포-지능.md (+섹션: "세포막이 세포의 진짜 뇌")
+
+## [2026-06-07] ingest | 양자물리학과 생물학의 만남, 보이지 않는 에너지가 지배하는 세상
+  - created: concepts/양자생물학.md
+  - updated: concepts/세포막.md (+섹션: "전자기 주파수 감지와 파동 간섭")
