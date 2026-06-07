@@ -527,3 +527,7 @@
   - created: concepts/수면-치유.md
   - updated: concepts/비타민-D3.md (+섹션: "햇빛의 직접 치유 역할")
   - updated: concepts/간-해독.md (+섹션: "혈액 정화와 전신 세포 회복")
+
+## [2026-06-07] ingest | 치유의 원리에 관한 해설 (Edgar Cayce on Principles of Healing)
+  - created: concepts/에드거-케이시-치유-원리.md
+  - updated: concepts/자가-치유-능력.md (+섹션: "이타적 목적과 자가 치유")
