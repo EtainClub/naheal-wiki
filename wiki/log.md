@@ -539,3 +539,7 @@
 ## [2026-06-07] ingest | 올바른 태도 (Edgar Cayce on Principles of Healing)
   - updated: concepts/에드거-케이시-치유-원리.md (+섹션: "마음은 건축가", "두려움·분노와 치유 장애", "용서와 치유")
   - updated: concepts/산알칼리-균형.md (+섹션: "분노와 즉각적 산성화")
+
+## [2026-06-07] ingest | 육체의 치유 (Edgar Cayce on Principles of Healing)
+  - created: concepts/피마자유-팩.md
+  - updated: concepts/에드거-케이시-치유-원리.md (+섹션: "식사 중 감정 상태와 독소화")
