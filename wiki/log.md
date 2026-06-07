@@ -610,3 +610,7 @@
   - created: concepts/플라세보-효과.md
   - updated: concepts/노시보-효과.md (+섹션: "의약품 부작용 암시와 신체 반응")
   - updated: concepts/스트레스-호르몬.md (+섹션: "긍정 감정의 치유 호르몬")
+
+## [2026-06-07] ingest | 세포의 성장과 방어 메커니즘, 생존을 결정짓는 두 가지 선택
+  - created: concepts/성장-방어-이분법.md
+  - updated: concepts/스트레스-호르몬.md (+섹션: "전두엽 억제와 반사적 뇌 활성화")
