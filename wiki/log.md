@@ -622,3 +622,8 @@
 ## [2026-06-07] ingest | 에필로그: 영혼과 과학 (신념의 생물학)
   - created: concepts/애자생존.md
   - updated: concepts/세포-지능.md (+섹션: "의식과 육체의 관계 — 지구착륙선 비유")
+
+## [2026-06-07] ingest | [부록] 건강한 삶을 위한 실천, 세포의 목소리에 귀 기울이기
+  - created: concepts/에너지-심리학.md
+  - updated: concepts/잠재의식-프로그래밍.md (+섹션: "의지력의 한계와 에너지 심리학")
+  - updated: concepts/성장-방어-이분법.md (+섹션: "의식적 환경 설계")
