@@ -631,3 +631,7 @@
 ## [2026-06-07] ingest | 암의 역습 (곤도 마코토의 생명 보존 의학, part-01)
   - created: concepts/진짜-암과-유사-암.md
   - updated: concepts/표준-암-치료.md (+섹션: "수술 자극과 암의 역습")
+
+## [2026-06-07] ingest | 2. 약에게 살해당하지 않는 47가지 방법 (곤도 마코토의 생명 보존 의학)
+  - created: concepts/약물-과잉.md
+  - updated: concepts/백신.md (+섹션: "HPV 백신(자궁경부암 백신) 논란", "독감 백신의 실효성 논란")
