@@ -556,3 +556,7 @@
   - created: concepts/활성산소.md
   - updated: concepts/자율신경.md (+섹션: "백혈구 자율신경 지배 법칙", "약물에 의한 자율신경 교란")
   - updated: concepts/만성-염증.md (+섹션: "과립구 경로")
+
+## [2026-06-07] ingest | 스트레스가 만병의 원인이다 (아보 도오루의 자연의학 part-03)
+  - created: concepts/자율신경성-피로.md
+  - updated: concepts/부교감신경.md (+섹션: "부교감신경성 피로 증상군")
