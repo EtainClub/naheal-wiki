@@ -605,3 +605,8 @@
 ## [2026-06-07] ingest | 양자물리학과 생물학의 만남, 보이지 않는 에너지가 지배하는 세상
   - created: concepts/양자생물학.md
   - updated: concepts/세포막.md (+섹션: "전자기 주파수 감지와 파동 간섭")
+
+## [2026-06-07] ingest | 마음이 몸을 치료한다, 생명과 신념의 위대한 관계
+  - created: concepts/플라세보-효과.md
+  - updated: concepts/노시보-효과.md (+섹션: "의약품 부작용 암시와 신체 반응")
+  - updated: concepts/스트레스-호르몬.md (+섹션: "긍정 감정의 치유 호르몬")
