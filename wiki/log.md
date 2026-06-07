@@ -570,3 +570,8 @@
   - created: concepts/정혈-자극.md
   - created: concepts/BAK-요법.md
   - updated: concepts/자율신경.md (+섹션: "교감신경 과긴장의 4대 병리 (후쿠다-아보 이론)")
+
+## [2026-06-07] ingest | 6. 암 걱정 없이 살기 위한 50대가 꼭 알아야 할 건강 비법 (아보 도오루의 자연의학)
+  - created: concepts/50세-대사-시프트.md
+  - created: concepts/장관-면역계.md
+  - updated: concepts/수면-치유.md (+섹션: "멜라토닌과 활성산소 소거")
