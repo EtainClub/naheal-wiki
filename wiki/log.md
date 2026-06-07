@@ -592,3 +592,8 @@
   - created: concepts/세포-지능.md
   - updated: concepts/에피제네틱스.md (+섹션: "면역 기억과 유전자 재설계")
   - updated: concepts/암세포-진화.md (+섹션: "라마르크의 협력 진화론")
+
+## [2026-06-07] ingest | 유전자가 아니라 환경이 전부다
+  - created: concepts/단백질-기계.md
+  - updated: concepts/에피제네틱스.md (+섹션: "조절 단백질과 발현 스위치")
+  - updated: concepts/세포-지능.md (+섹션: "페트리 접시 원칙")
