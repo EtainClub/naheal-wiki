@@ -583,3 +583,7 @@
 ## [2026-06-07] ingest | 서론: 세포의 마술 (신념의 생물학 part-00)
   - created: concepts/후성유전학.md
   - created: concepts/세포막.md
+
+## [2026-06-07] ingest | 현미경 속 세포가 알려주는 생명의 거대한 비밀
+  - created: concepts/에피제네틱스.md
+  - updated: concepts/세포막.md (+섹션: "세포의 뇌: mem-Brain")
