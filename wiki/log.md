@@ -565,3 +565,8 @@
   - created: concepts/해당계와-미토콘드리아계.md
   - updated: concepts/바르부르크-효과.md (+섹션: "자율신경-대사 연결 (아보 도오루)")
   - updated: concepts/자율신경.md (+섹션: "교감신경 긴장과 저체온·저산소")
+
+## [2026-06-07] ingest | 암을 이기는 면역요법 (아보 도오루의 자연의학 part-05)
+  - created: concepts/정혈-자극.md
+  - created: concepts/BAK-요법.md
+  - updated: concepts/자율신경.md (+섹션: "교감신경 과긴장의 4대 병리 (후쿠다-아보 이론)")
