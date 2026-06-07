@@ -531,3 +531,7 @@
 ## [2026-06-07] ingest | 치유의 원리에 관한 해설 (Edgar Cayce on Principles of Healing)
   - created: concepts/에드거-케이시-치유-원리.md
   - updated: concepts/자가-치유-능력.md (+섹션: "이타적 목적과 자가 치유")
+
+## [2026-06-07] ingest | 일반 정보 (Edgar Cayce on Principles of Healing)
+  - created: concepts/산알칼리-균형.md
+  - updated: concepts/에드거-케이시-치유-원리.md (+섹션: "신체의 4대 핵심 기능", "배설 기관과 치유의 첫걸음", "척추 교정과 신경계 조화", "자연 보조 요법")
