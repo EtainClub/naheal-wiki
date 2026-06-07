@@ -535,3 +535,7 @@
 ## [2026-06-07] ingest | 일반 정보 (Edgar Cayce on Principles of Healing)
   - created: concepts/산알칼리-균형.md
   - updated: concepts/에드거-케이시-치유-원리.md (+섹션: "신체의 4대 핵심 기능", "배설 기관과 치유의 첫걸음", "척추 교정과 신경계 조화", "자연 보조 요법")
+
+## [2026-06-07] ingest | 올바른 태도 (Edgar Cayce on Principles of Healing)
+  - updated: concepts/에드거-케이시-치유-원리.md (+섹션: "마음은 건축가", "두려움·분노와 치유 장애", "용서와 치유")
+  - updated: concepts/산알칼리-균형.md (+섹션: "분노와 즉각적 산성화")
