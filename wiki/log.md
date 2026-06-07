@@ -597,3 +597,7 @@
   - created: concepts/단백질-기계.md
   - updated: concepts/에피제네틱스.md (+섹션: "조절 단백질과 발현 스위치")
   - updated: concepts/세포-지능.md (+섹션: "페트리 접시 원칙")
+
+## [2026-06-07] ingest | magical mem-Brain, 세포의 진짜 뇌를 찾아서 (신념의 생물학 part-04)
+  - updated: concepts/세포막.md (+섹션: "인지질 이중층 구조", "수용체와 효과체 단백질", "생물학적 컴퓨터 칩")
+  - updated: concepts/세포-지능.md (+섹션: "세포막이 세포의 진짜 뇌")
