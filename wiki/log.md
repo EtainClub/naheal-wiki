@@ -618,3 +618,7 @@
 ## [2026-06-07] ingest | 의식적인 부모 되기, 유전자를 설계하는 환경의 힘 (신념의 생물학 part-08)
   - created: concepts/잠재의식-프로그래밍.md
   - updated: concepts/에피제네틱스.md (+섹션: "태아 환경과 부모의 후성유전적 영향")
+
+## [2026-06-07] ingest | 에필로그: 영혼과 과학 (신념의 생물학)
+  - created: concepts/애자생존.md
+  - updated: concepts/세포-지능.md (+섹션: "의식과 육체의 관계 — 지구착륙선 비유")
