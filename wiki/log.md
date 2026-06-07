@@ -543,3 +543,6 @@
 ## [2026-06-07] ingest | 육체의 치유 (Edgar Cayce on Principles of Healing)
   - created: concepts/피마자유-팩.md
   - updated: concepts/에드거-케이시-치유-원리.md (+섹션: "식사 중 감정 상태와 독소화")
+
+## [2026-06-07] ingest | 목적을 위해 건강을 유지하라 (Edgar Cayce on Principles of Healing)
+  - updated: concepts/에드거-케이시-치유-원리.md (+섹션: "영적 이상과 육체 진동", "절제·명상과 건강 유지")
