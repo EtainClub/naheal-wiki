@@ -546,3 +546,8 @@
 
 ## [2026-06-07] ingest | 목적을 위해 건강을 유지하라 (Edgar Cayce on Principles of Healing)
   - updated: concepts/에드거-케이시-치유-원리.md (+섹션: "영적 이상과 육체 진동", "절제·명상과 건강 유지")
+
+## [2026-06-07] ingest | 1. 스스로 암 치유 하는 몸 (아보 도오루의 자연의학)
+  - created: concepts/단식.md
+  - updated: concepts/자율신경.md (+섹션: "백혈구 지배 법칙")
+  - updated: concepts/자가-치유-능력.md (+섹션: "피의 오염과 4대 부조화")
