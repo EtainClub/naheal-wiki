@@ -627,3 +627,7 @@
   - created: concepts/에너지-심리학.md
   - updated: concepts/잠재의식-프로그래밍.md (+섹션: "의지력의 한계와 에너지 심리학")
   - updated: concepts/성장-방어-이분법.md (+섹션: "의식적 환경 설계")
+
+## [2026-06-07] ingest | 암의 역습 (곤도 마코토의 생명 보존 의학, part-01)
+  - created: concepts/진짜-암과-유사-암.md
+  - updated: concepts/표준-암-치료.md (+섹션: "수술 자극과 암의 역습")
