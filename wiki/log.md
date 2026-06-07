@@ -560,3 +560,8 @@
 ## [2026-06-07] ingest | 스트레스가 만병의 원인이다 (아보 도오루의 자연의학 part-03)
   - created: concepts/자율신경성-피로.md
   - updated: concepts/부교감신경.md (+섹션: "부교감신경성 피로 증상군")
+
+## [2026-06-07] ingest | 4. 사람이 병에 걸리는 단 2가지 원인
+  - created: concepts/해당계와-미토콘드리아계.md
+  - updated: concepts/바르부르크-효과.md (+섹션: "자율신경-대사 연결 (아보 도오루)")
+  - updated: concepts/자율신경.md (+섹션: "교감신경 긴장과 저체온·저산소")
