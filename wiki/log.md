@@ -551,3 +551,8 @@
   - created: concepts/단식.md
   - updated: concepts/자율신경.md (+섹션: "백혈구 지배 법칙")
   - updated: concepts/자가-치유-능력.md (+섹션: "피의 오염과 4대 부조화")
+
+## [2026-06-07] ingest | 2. 면역 혁명 (아보 도오루의 자연의학)
+  - created: concepts/활성산소.md
+  - updated: concepts/자율신경.md (+섹션: "백혈구 자율신경 지배 법칙", "약물에 의한 자율신경 교란")
+  - updated: concepts/만성-염증.md (+섹션: "과립구 경로")
