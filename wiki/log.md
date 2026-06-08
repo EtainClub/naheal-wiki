@@ -649,3 +649,7 @@
   - created: concepts/의원성-질환.md
   - created: concepts/사전의료의향서.md
   - updated: concepts/약물-과잉.md (+섹션: "항생제 오남용과 면역 마비", "다제 중복 처방의 독성 폭발")
+
+## [2026-06-08] ingest | 6. 암 따위가 삶을 멈출 수는 없다
+  - created: concepts/발열-자연방치.md
+  - updated: concepts/노시보-효과.md (+섹션: "충격사와 진단 비공개")
