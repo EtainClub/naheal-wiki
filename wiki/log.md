@@ -669,3 +669,7 @@
   - updated: concepts/오르곤-에너지.md (+섹션: "발견 역사: 리비도에서 오르곤으로")
   - updated: concepts/비온.md (+섹션: "형성 메커니즘")
   - updated: concepts/성격-갑옷.md (+섹션: "신경근육 성갑옷의 형성")
+
+## [2026-06-08] ingest | 오르곤 에너지의 객관적 증명 (오르곤 축적기 핸드북 part-04)
+  - updated: concepts/오르곤-에너지.md (+섹션: "시각적 관찰과 사진 증거")
+  - updated: concepts/오르곤-축적기.md (+섹션: "습도·증발 억제 현상", "식물·동물·인간에 대한 효과")
