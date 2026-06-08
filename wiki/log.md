@@ -688,3 +688,7 @@
 ## [2026-06-08] ingest | 오르곤 환경 청소와 관리법
   - updated: concepts/오라누어와-도르.md (+섹션: "일상 환경 청소법", "드로우 버킷과 바이온 팩")
   - updated: concepts/오르곤-축적기.md (+섹션: "축적기 일상 관리")
+
+## [2026-06-08] ingest | 드가 백킷·바이온 수·바이온 팩 활용법
+  - created: concepts/드가-백킷.md
+  - updated: concepts/비온.md (+섹션: "바이온 수", "바이온 팩")
