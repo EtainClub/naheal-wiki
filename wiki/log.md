@@ -684,3 +684,7 @@
 ## [2026-06-08] ingest | 오라누어와 도르 — 유해 에너지 경고
   - created: concepts/오라누어와-도르.md
   - updated: concepts/오르곤-축적기.md (+섹션: "유해 환경과 사용 금지 조건")
+
+## [2026-06-08] ingest | 오르곤 환경 청소와 관리법
+  - updated: concepts/오라누어와-도르.md (+섹션: "일상 환경 청소법", "드로우 버킷과 바이온 팩")
+  - updated: concepts/오르곤-축적기.md (+섹션: "축적기 일상 관리")
