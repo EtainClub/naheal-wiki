@@ -644,3 +644,8 @@
   - created: concepts/유사-암.md
   - created: concepts/수술-침습.md
   - updated: concepts/의료-자기주권.md (+섹션: "치료 거부권의 실천", "사전의료의향서와 평온사")
+
+## [2026-06-08] ingest | 의사에게 살해당하지 않는 47가지 방법 (곤도 마코토의 생명 보존 의학)
+  - created: concepts/의원성-질환.md
+  - created: concepts/사전의료의향서.md
+  - updated: concepts/약물-과잉.md (+섹션: "항생제 오남용과 면역 마비", "다제 중복 처방의 독성 폭발")
