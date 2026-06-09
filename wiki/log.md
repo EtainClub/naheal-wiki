@@ -738,3 +738,7 @@
 ## [2026-06-09] ingest | 1장 아티클 (왜 불치병은 호전되는가)
   - created: concepts/파이토케미컬.md
   - updated: concepts/극적인-치유.md (+섹션: "식단 전환의 구체적 원칙")
+
+## [2026-06-09] ingest | 2장 아티클 (왜 불치병은 호전되는가)
+  - created: concepts/치유-주권.md
+  - updated: concepts/극적인-치유.md (+섹션: "수칙 2 심화: 치유 주권")
