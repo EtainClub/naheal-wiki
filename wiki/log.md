@@ -742,3 +742,7 @@
 ## [2026-06-09] ingest | 2장 아티클 (왜 불치병은 호전되는가)
   - created: concepts/치유-주권.md
   - updated: concepts/극적인-치유.md (+섹션: "수칙 2 심화: 치유 주권")
+
+## [2026-06-09] ingest | 3장 아티클 (왜 불치병은 호전되는가)
+  - created: concepts/직관.md
+  - updated: concepts/극적인-치유.md (+섹션: "수칙 3 심화: 직관")
