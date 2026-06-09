@@ -734,3 +734,7 @@
 ## [2026-06-09] ingest | 머리말 (왜 불치병은 호전되는가)
   - created: concepts/극적인-치유.md
   - updated: concepts/3차원-통합-치유-모델.md (+섹션: "치유 주권 회복")
+
+## [2026-06-09] ingest | 1장 아티클 (왜 불치병은 호전되는가)
+  - created: concepts/파이토케미컬.md
+  - updated: concepts/극적인-치유.md (+섹션: "식단 전환의 구체적 원칙")
