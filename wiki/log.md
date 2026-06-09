@@ -730,3 +730,7 @@
 ## [2026-06-09] ingest | 참고 자료 및 연구 기관 안내 (오르곤 축적기 핸드북 part-20)
   - updated: concepts/오르곤-축적기.md (+섹션: "마르부르크 대학교 이중맹검 실험")
   - updated: concepts/빌헬름-라이히.md (+섹션: "라이히 유산 보존 기관")
+
+## [2026-06-09] ingest | 머리말 (왜 불치병은 호전되는가)
+  - created: concepts/극적인-치유.md
+  - updated: concepts/3차원-통합-치유-모델.md (+섹션: "치유 주권 회복")
