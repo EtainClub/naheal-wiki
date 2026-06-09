@@ -716,3 +716,7 @@
 ## [2026-06-09] ingest | 십층 실험용 소형 축적기 제작법
   - updated: concepts/오르곤-축적기.md (+섹션: "십층 소형 축적기 제작법")
   - updated: concepts/오르곤-식물-실험.md (+섹션: "다층 구조와 충전 시간")
+
+## [2026-06-09] ingest | 오르곤 슈터 깔때기 제작법
+  - created: concepts/오르곤-슈터.md
+  - updated: concepts/오르곤-축적기.md (+섹션: "보조 장치: 슈터 깔때기")
