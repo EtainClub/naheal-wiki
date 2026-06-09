@@ -754,3 +754,7 @@
 ## [2026-06-09] ingest | 5장 아티클 (왜 불치병은 호전되는가)
   - created: concepts/억압된-감정-해소.md
   - updated: concepts/극적인-치유.md (+섹션: "수칙 5 심화: 억압된 감정 해소")
+
+## [2026-06-09] ingest | 6장 아티클 (왜 불치병은 호전되는가)
+  - created: concepts/긍정적-감정-확대.md
+  - updated: concepts/극적인-치유.md (+섹션: "수칙 6 심화: 긍정적 감정 확대")
