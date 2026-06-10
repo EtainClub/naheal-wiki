@@ -806,3 +806,7 @@
 ## [2026-06-10] ingest | 책머리에: 깨어남 (당신이 플라시보다)
   - created: concepts/플라시보-효과.md
   - updated: concepts/자가-치유-능력.md (+섹션: "치유 시각화 — 조 디스펜자의 실천")
+
+## [2026-06-10] ingest | 서론: 생각을 현실로 만들기 (당신이 플라시보다)
+  - created: concepts/플라시보-효과.md
+  - updated: concepts/명상.md (+섹션: "잠재의식 접근과 암시 감응력")
