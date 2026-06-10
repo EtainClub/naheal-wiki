@@ -802,3 +802,7 @@
   - created: concepts/마이오카인.md
   - created: concepts/근감소증.md
   - updated: concepts/표준-암-치료.md (+섹션: "부동 생활과 근감소증 위협")
+
+## [2026-06-10] ingest | 책머리에: 깨어남 (당신이 플라시보다)
+  - created: concepts/플라시보-효과.md
+  - updated: concepts/자가-치유-능력.md (+섹션: "치유 시각화 — 조 디스펜자의 실천")
