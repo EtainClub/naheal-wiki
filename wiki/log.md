@@ -793,3 +793,7 @@
   - created: concepts/자연식물식.md
   - updated: concepts/3차원-통합-치유-모델.md (+섹션: "삼위일체 일상 치유 — 음식·습관·마음의 유기적 합")
   - updated: concepts/수면-치유.md (+섹션: "수면 주기 동화 프로토콜")
+
+## [2026-06-10] ingest | 6. 환자 혁명 (다양한 자연치유의 실재)
+  - created: concepts/기능의학.md
+  - updated: concepts/암-산업.md (+섹션: "환자 주권 회복론")
