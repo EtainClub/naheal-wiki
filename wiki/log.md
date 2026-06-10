@@ -783,3 +783,8 @@
   - created: concepts/천일염.md
   - updated: concepts/약물-과잉.md (+섹션: "화학 항암제의 독성과 생존율 통계 조작", "타미플루(Tamiflu)의 신경독성")
   - updated: concepts/의원성-질환.md (+섹션: "과잉 수술의 구체 사례")
+
+## [2026-06-10] ingest | 4. 열방약국 말기암 통합요법 상담소
+  - created: concepts/종양-악액질.md
+  - updated: concepts/암-줄기세포.md (+섹션: "항암제의 사각지대와 동면 기전")
+  - updated: concepts/표준-암-치료.md (+섹션: "다핵거대암세포로의 비상 변이")
