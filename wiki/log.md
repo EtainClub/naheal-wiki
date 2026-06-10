@@ -766,3 +766,7 @@
 ## [2026-06-10] ingest | 9장 아티클 (왜 불치병은 호전되는가)
   - created: concepts/살아야-할-이유.md
   - updated: concepts/극적인-치유.md (+섹션: "수칙 9 심화: 살아야 할 이유")
+
+## [2026-06-10] ingest | 10장 아티클 (왜 불치병은 호전되는가)
+  - created: concepts/통합의학.md
+  - updated: concepts/극적인-치유.md (+섹션: "9가지 수칙의 시너지 원칙", "시한부 선고를 출발 신호로")
