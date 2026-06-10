@@ -774,3 +774,7 @@
 ## [2026-06-10] ingest | 암을 고치는 생활 습관 (다양한 자연치유의 실재 · part-01)
   - created: concepts/온열-요법.md
   - updated: concepts/긍정적-감정-확대.md (+섹션: "웃음과 NK세포 수치")
+
+## [2026-06-10] ingest | 병원에서 알려주지 않는 암치료 (다양한 자연치유의 실재 part-02)
+  - created: concepts/수용성-키토산.md
+  - updated: concepts/항암-면역-보충제.md (+섹션: "수용성 키토산")
