@@ -770,3 +770,7 @@
 ## [2026-06-10] ingest | 10장 아티클 (왜 불치병은 호전되는가)
   - created: concepts/통합의학.md
   - updated: concepts/극적인-치유.md (+섹션: "9가지 수칙의 시너지 원칙", "시한부 선고를 출발 신호로")
+
+## [2026-06-10] ingest | 암을 고치는 생활 습관 (다양한 자연치유의 실재 · part-01)
+  - created: concepts/온열-요법.md
+  - updated: concepts/긍정적-감정-확대.md (+섹션: "웃음과 NK세포 수치")
