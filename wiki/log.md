@@ -797,3 +797,8 @@
 ## [2026-06-10] ingest | 6. 환자 혁명 (다양한 자연치유의 실재)
   - created: concepts/기능의학.md
   - updated: concepts/암-산업.md (+섹션: "환자 주권 회복론")
+
+## [2026-06-10] ingest | 나영무 박사의 암 치유 기적의 운동
+  - created: concepts/마이오카인.md
+  - created: concepts/근감소증.md
+  - updated: concepts/표준-암-치료.md (+섹션: "부동 생활과 근감소증 위협")
