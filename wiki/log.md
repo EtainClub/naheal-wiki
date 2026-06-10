@@ -778,3 +778,8 @@
 ## [2026-06-10] ingest | 병원에서 알려주지 않는 암치료 (다양한 자연치유의 실재 part-02)
   - created: concepts/수용성-키토산.md
   - updated: concepts/항암-면역-보충제.md (+섹션: "수용성 키토산")
+
+## [2026-06-10] ingest | 3. 병원에 가지 말아야 할 81가지 이유
+  - created: concepts/천일염.md
+  - updated: concepts/약물-과잉.md (+섹션: "화학 항암제의 독성과 생존율 통계 조작", "타미플루(Tamiflu)의 신경독성")
+  - updated: concepts/의원성-질환.md (+섹션: "과잉 수술의 구체 사례")
