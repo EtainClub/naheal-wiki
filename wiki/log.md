@@ -788,3 +788,8 @@
   - created: concepts/종양-악액질.md
   - updated: concepts/암-줄기세포.md (+섹션: "항암제의 사각지대와 동면 기전")
   - updated: concepts/표준-암-치료.md (+섹션: "다핵거대암세포로의 비상 변이")
+
+## [2026-06-10] ingest | 5. 사라진 암 (다양한 자연치유의 실재)
+  - created: concepts/자연식물식.md
+  - updated: concepts/3차원-통합-치유-모델.md (+섹션: "삼위일체 일상 치유 — 음식·습관·마음의 유기적 합")
+  - updated: concepts/수면-치유.md (+섹션: "수면 주기 동화 프로토콜")
