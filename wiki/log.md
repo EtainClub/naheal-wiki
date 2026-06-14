@@ -886,3 +886,8 @@
   - created: concepts/줄기세포.md
   - updated: concepts/에피제네틱스.md (+섹션: "유전자 발현의 화학적 경로", "생활 습관 변화와 암 유전자 발현 전환")
   - updated: concepts/플라시보-효과.md (+섹션: "엘렌 랭어의 시계 되돌리기 실험")
+
+## [2026-06-14] ingest | 제5장 생각이 뇌와 몸을 바꾸는 법 (당신이 플라시보다)
+  - created: concepts/정신적-리허설.md
+  - updated: concepts/뇌-가소성.md (+섹션: "정신적 리허설과 뇌 지도 재구성")
+  - updated: concepts/에피제네틱스.md (+섹션: "뉴로펩타이드와 감정 신호의 유전자 조절")
