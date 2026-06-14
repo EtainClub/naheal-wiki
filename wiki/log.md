@@ -900,3 +900,7 @@
   - created: concepts/신념과-인식.md
   - updated: concepts/플라시보-효과.md (+섹션: "고양된 감정과 유전적 변화")
   - updated: concepts/노시보-효과.md (+섹션: "의학적 진단과 무의식의 굴복")
+
+## [2026-06-14] ingest | 제8장 양자 마음 (당신이 플라시보다, part-09)
+  - created: concepts/관찰자-효과.md
+  - updated: concepts/양자생물학.md (+섹션: "양자장(통합장)과 무한한 가능성", "고양된 감정과 주파수 공명"; +related: 관찰자-효과)
