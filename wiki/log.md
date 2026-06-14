@@ -895,3 +895,8 @@
 ## [2026-06-14] ingest | 제6장 암시 감응력 (당신이 플라시보다)
   - created: concepts/암시-감응력.md
   - updated: concepts/잠재의식-프로그래밍.md (+섹션: "세타파 진입과 치유 메시지 심기")
+
+## [2026-06-14] ingest | 제7장 믿음과 인식 그리고 의식의 조절 (당신이 플라시보다)
+  - created: concepts/신념과-인식.md
+  - updated: concepts/플라시보-효과.md (+섹션: "고양된 감정과 유전적 변화")
+  - updated: concepts/노시보-효과.md (+섹션: "의학적 진단과 무의식의 굴복")
