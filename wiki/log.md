@@ -821,3 +821,7 @@
 ## [2026-06-14] ingest | 병원에서 알려주지 않는 암 치료 (part-00)
   - created: concepts/자연치유력.md
   - updated: concepts/3차원-통합-치유-모델.md (+섹션: "암 발생 기간과 치료 조급함 경계")
+
+## [2026-06-14] ingest | 암 치료에 대한 새로운 접근과 면역 요법
+  - created: concepts/자연-치유력.md
+  - updated: concepts/수용성-키토산.md (+섹션: "세포 활성화")
