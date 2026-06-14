@@ -867,3 +867,7 @@
 ## [2026-06-14] ingest | 유방암 환자들의 키쿠 키토산 복용을 통한 치유 사례
   - created: concepts/유방암.md
   - updated: concepts/수용성-키토산.md (+섹션: "유방암 임상 사례")
+
+## [2026-06-14] ingest | 인후두·구강·식도암 및 악성 림프종 환자들의 키쿠 키토산 치유 사례
+  - created: concepts/악성-림프종.md
+  - updated: concepts/수용성-키토산.md (+섹션: "구강·인후두암 임상 사례", "식도암 수술 전후 보조 사례"; +relatedConcepts: 악성-림프종)
