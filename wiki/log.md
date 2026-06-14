@@ -891,3 +891,7 @@
   - created: concepts/정신적-리허설.md
   - updated: concepts/뇌-가소성.md (+섹션: "정신적 리허설과 뇌 지도 재구성")
   - updated: concepts/에피제네틱스.md (+섹션: "뉴로펩타이드와 감정 신호의 유전자 조절")
+
+## [2026-06-14] ingest | 제6장 암시 감응력 (당신이 플라시보다)
+  - created: concepts/암시-감응력.md
+  - updated: concepts/잠재의식-프로그래밍.md (+섹션: "세타파 진입과 치유 메시지 심기")
