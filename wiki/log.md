@@ -858,3 +858,8 @@
 ## [2026-06-14] ingest | 위암 환자들의 키쿠 키토산 복용을 통한 치유 사례
   - created: concepts/위암.md
   - updated: concepts/수용성-키토산.md (+섹션: "위암 임상 사례")
+
+## [2026-06-14] ingest | 자궁암 및 난소암 환자들의 키쿠 키토산 복용을 통한 치유 사례
+  - created: concepts/자궁암.md
+  - updated: concepts/난소암.md (+섹션: "수용성 키토산 병행 임상 사례")
+  - updated: concepts/수용성-키토산.md (+섹션: "부인과암 임상 사례")
