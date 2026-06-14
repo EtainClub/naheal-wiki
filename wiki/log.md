@@ -909,3 +909,8 @@
   - created: concepts/멘탈-리허설.md
   - updated: concepts/극적인-치유.md (+섹션: "당신이 플라시보다: 세 편의 변형 이야기")
   - updated: concepts/명상.md (+섹션: "조앤의 다발성 경화증 회복 사례")
+
+## [2026-06-14] ingest | 제10장 정보를 변형으로: 당신이 플라시보임을 증명한다
+  - created: concepts/뇌-동조화.md
+  - updated: concepts/명상.md (+섹션: "뇌 스캔으로 검증된 회복 사례")
+  - updated: concepts/플라시보-효과.md (+섹션: "내면의 제약 회사")
