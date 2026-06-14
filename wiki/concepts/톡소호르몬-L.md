@@ -2,7 +2,7 @@
 slug: 톡소호르몬-L
 title: "톡소호르몬-L"
 sourceArticles:
-  - { seriesId: "majun-chitosan", articleId: "part-04", articleSlug: "키쿠-키토산의-임상-실험-결과와-항암-효능" }
+  - { seriesId: "majun-chitosan", articleId: "part-05", articleSlug: "키토산의-항암-기전과-암-세포-전이-억제-효능" }
 relatedConcepts: ["수용성-키토산", "암세포", "항암-면역-보충제"]
 tags: ["항암", "면역"]
 lastUpdatedAt: 2026-06-14
