@@ -950,3 +950,7 @@
 ## [2026-06-20] ingest | 내가 의사보다 똑똑해? (말기 암 진단 10년, 건강하게 잘 살고 있습니다)
   - created: concepts/자연치유.md
   - updated: concepts/극적인-치유.md (+섹션: "치유 청사진 수립")
+
+## [2026-06-20] ingest | 오대산에서 전업치병하다 (말기 암 진단 10년, 건강하게 잘 살고 있습니다 / part-06)
+  - created: concepts/전업치병.md
+  - updated: concepts/치유-공동체.md (+섹션: "장거리 헌신과 분리의 고통")
