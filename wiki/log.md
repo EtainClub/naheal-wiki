@@ -934,3 +934,7 @@
 ## [2026-06-20] ingest | [프롤로그 요약] 암 치유의 해법은 분명히 있다!
   - created: concepts/자연치유.md
   - created: concepts/전업치병.md
+
+## [2026-06-20] ingest | 제1장 시한부 말기 신장암 자연치유기: 어느 날, 나는 암 환자가 되었다
+  - created: concepts/전이성-신장암.md
+  - updated: concepts/살아야-할-이유.md (+섹션: "어린 자녀: 부모의 생존 의지")
