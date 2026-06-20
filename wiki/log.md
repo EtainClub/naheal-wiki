@@ -930,3 +930,7 @@
 ## [2026-06-20] ingest | 부록: 신념과 인식 바꾸기 명상 대본 (당신이 플라시보다)
   - updated: concepts/신념과-인식.md (+섹션: "신념 전환 6단계 명상 프로토콜")
   - updated: concepts/뇌파.md (+섹션: "공간 지각 명상 기법")
+
+## [2026-06-20] ingest | [프롤로그 요약] 암 치유의 해법은 분명히 있다!
+  - created: concepts/자연치유.md
+  - created: concepts/전업치병.md
