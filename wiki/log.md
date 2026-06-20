@@ -914,3 +914,7 @@
   - created: concepts/뇌-동조화.md
   - updated: concepts/명상.md (+섹션: "뇌 스캔으로 검증된 회복 사례")
   - updated: concepts/플라시보-효과.md (+섹션: "내면의 제약 회사")
+
+## [2026-06-20] ingest | 제11장 명상 준비하기 (당신이 플라시보다)
+  - created: concepts/뇌파.md
+  - updated: concepts/명상.md (+섹션: "명상 준비 단계", "수렴적 집중과 확산적 집중")
