@@ -967,3 +967,7 @@
   - updated: concepts/노시보-효과.md (+섹션: "종이호랑이 효과 — 암 진단 공포의 자기파괴")
   - updated: concepts/살아야-할-이유.md (+섹션: "생존 확신 통계")
   - updated: concepts/3차원-통합-치유-모델.md (+섹션: "무의식적 확신 — 의식적 긍정사고와의 구분")
+
+## [2026-06-20] ingest | 암은 삶의 끝이 아니다 (말기 암 진단 10년, part-10)
+  - created: concepts/암-경고신호.md
+  - updated: concepts/암세포.md (+섹션: "세포 극한 환경과 변형")
