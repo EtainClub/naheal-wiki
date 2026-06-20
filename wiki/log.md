@@ -982,3 +982,7 @@
 ## [2026-06-20] ingest | 항암과 방사선 치료의 진짜 의미
   - created: concepts/항암-방사선-시간벌기론.md
   - updated: concepts/3차원-통합-치유-모델.md (+섹션: "전인적 관점 vs. 장기별 분절 접근")
+
+## [2026-06-20] ingest | 암 생존율의 의미와 치유 적합적 해석법
+  - created: concepts/암-생존율.md
+  - updated: concepts/암-생존-메커니즘.md (+섹션: "치유의 유일한 독립 변수")
