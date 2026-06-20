@@ -986,3 +986,6 @@
 ## [2026-06-20] ingest | 암 생존율의 의미와 치유 적합적 해석법
   - created: concepts/암-생존율.md
   - updated: concepts/암-생존-메커니즘.md (+섹션: "치유의 유일한 독립 변수")
+
+## [2026-06-20] ingest | 자연치유에 대한 몇 가지 오해
+  - created: concepts/자연치유.md
