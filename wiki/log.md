@@ -989,3 +989,7 @@
 
 ## [2026-06-20] ingest | 자연치유에 대한 몇 가지 오해
   - created: concepts/자연치유.md
+
+## [2026-06-20] ingest | 뼈 전이암도 자연치유가 가능한 이유
+  - created: concepts/뼈-전이암.md
+  - updated: concepts/자연치유.md (+섹션: "운이 아닌 올바른 노력의 결과", "잠재적 치유 능력과 개인적 조건")
