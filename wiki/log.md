@@ -997,3 +997,7 @@
 ## [2026-06-20] ingest | 제3장 우리 몸의 치유 조건들: 우리 몸의 완벽함과 자율 신경
   - created: concepts/자율신경-균형.md
   - updated: concepts/부교감신경.md (+섹션: "인체의 자율 운영체제로서의 자율신경계")
+
+## [2026-06-20] ingest | 내 몸의 건강 헌법을 바로 세우자
+  - created: concepts/건강-헌법.md
+  - updated: concepts/자가-치유-능력.md (+섹션: "총체적 치유의 연결성 — 동시 회복 사례")
