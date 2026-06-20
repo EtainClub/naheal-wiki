@@ -1001,3 +1001,7 @@
 ## [2026-06-20] ingest | 내 몸의 건강 헌법을 바로 세우자
   - created: concepts/건강-헌법.md
   - updated: concepts/자가-치유-능력.md (+섹션: "총체적 치유의 연결성 — 동시 회복 사례")
+
+## [2026-06-20] ingest | 자연치유 현상이 일어나기 위한 8가지 치유 조건
+  - created: concepts/자연치유-조건.md
+  - updated: concepts/억압된-감정-해소.md (+섹션: "트라우마와 면역력 저하")
