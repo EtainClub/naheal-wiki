@@ -978,3 +978,7 @@
 ## [2026-06-20] ingest | 치유는 필수, 치료는 선택 (말기 암 진단 10년, 건강하게 잘 살고 있습니다 / part-12)
   - created: concepts/치료와-치유.md
   - updated: concepts/자가-치유-능력.md (+섹션: "치유 주체와 치료의 선택적 결합")
+
+## [2026-06-20] ingest | 항암과 방사선 치료의 진짜 의미
+  - created: concepts/항암-방사선-시간벌기론.md
+  - updated: concepts/3차원-통합-치유-모델.md (+섹션: "전인적 관점 vs. 장기별 분절 접근")
