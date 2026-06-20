@@ -938,3 +938,7 @@
 ## [2026-06-20] ingest | 제1장 시한부 말기 신장암 자연치유기: 어느 날, 나는 암 환자가 되었다
   - created: concepts/전이성-신장암.md
   - updated: concepts/살아야-할-이유.md (+섹션: "어린 자녀: 부모의 생존 의지")
+
+## [2026-06-20] ingest | 죽음을 학습하는 사람들
+  - created: concepts/죽음의-학습.md
+  - updated: concepts/치유-주권.md (+섹션: "패배주의 환경 인식과 탈출")
