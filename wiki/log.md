@@ -1019,3 +1019,8 @@
 
 ## [2026-06-21] ingest | 암 치유 운동의 원칙
   - created: concepts/암-치유-운동.md
+
+## [2026-06-21] ingest | 암통증에 대한 심리학적 대응
+  - created: concepts/엔도르핀.md
+  - updated: concepts/뼈-전이암.md (+섹션: "암성 통증의 심리적 재프레이밍", "암성 통증 대응 실천법")
+  - updated: concepts/수면-치유.md (+섹션: "통증과 수면 보호")
