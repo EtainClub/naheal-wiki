@@ -1052,3 +1052,7 @@
 ## [2026-06-21] ingest | 암이어서 다행이고 나여서 다행이다 (말기 암 진단 10년, 건강하게 잘 살고 있습니다 / part-33)
   - created: concepts/치병-주도권.md
   - updated: concepts/암-경고신호.md (+섹션: "혈관성 질환과 비교한 암의 상대적 특성")
+
+## [2026-06-21] ingest | 전업치병 모드, 관리 치병 모드, 일상 모드
+  - created: concepts/전업치병.md
+  - updated: concepts/암-치유-청사진.md (+relatedConcepts: "전업치병")
