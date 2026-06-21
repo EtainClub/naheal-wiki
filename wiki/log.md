@@ -1061,3 +1061,7 @@
   - created: concepts/자연치유-모니터링.md
   - created: concepts/당화혈색소.md
   - updated: concepts/만성-염증.md (+섹션: "CRP 모니터링 목표")
+
+## [2026-06-21] ingest | 암 환자는 극단적 이기주의자가 되어야
+  - created: concepts/전업치병.md
+  - updated: concepts/살아야-할-이유.md (+섹션: "의무감과 내적 동기의 구분")
