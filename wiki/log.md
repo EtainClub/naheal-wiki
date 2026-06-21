@@ -1056,3 +1056,8 @@
 ## [2026-06-21] ingest | 전업치병 모드, 관리 치병 모드, 일상 모드
   - created: concepts/전업치병.md
   - updated: concepts/암-치유-청사진.md (+relatedConcepts: "전업치병")
+
+## [2026-06-21] ingest | 자연치유하면서 반드시 체크해봐야 할 것들
+  - created: concepts/자연치유-모니터링.md
+  - created: concepts/당화혈색소.md
+  - updated: concepts/만성-염증.md (+섹션: "CRP 모니터링 목표")
