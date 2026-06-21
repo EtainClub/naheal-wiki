@@ -1024,3 +1024,7 @@
   - created: concepts/엔도르핀.md
   - updated: concepts/뼈-전이암.md (+섹션: "암성 통증의 심리적 재프레이밍", "암성 통증 대응 실천법")
   - updated: concepts/수면-치유.md (+섹션: "통증과 수면 보호")
+
+## [2026-06-21] ingest | 생각의 힘! 상상하면 이루어진다
+  - created: concepts/시각화-상상-요법.md
+  - updated: concepts/3차원-통합-치유-모델.md (+섹션: "부정적 사고와 대사 교란")
