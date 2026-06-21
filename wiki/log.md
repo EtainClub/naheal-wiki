@@ -1028,3 +1028,6 @@
 ## [2026-06-21] ingest | 생각의 힘! 상상하면 이루어진다
   - created: concepts/시각화-상상-요법.md
   - updated: concepts/3차원-통합-치유-모델.md (+섹션: "부정적 사고와 대사 교란")
+
+## [2026-06-21] ingest | 초기 암이어도 전업치병 기간이 필수인 이유 (part-27)
+  - created: concepts/전업치병.md
